@@ -55,7 +55,7 @@ for line in data:
 
 
 for n in states:
-    out_file = open(f'{n}.json', 'w')
+    out_file = open(f'json_files/{n}.json', 'w')
     json_object = json.dumps(states[n], indent=4)
     out_file.write(json_object)
     out_file.close()
