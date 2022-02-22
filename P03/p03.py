@@ -1,4 +1,4 @@
-import json
+import json, os
 
 data = open('json_files/Jalisco.json', 'r')
 
@@ -40,6 +40,9 @@ def delete(file, zipcode):
     except:
         print("No se pudo eliminar, escribe el comando correctamente")
 
+def rename(file, name):
+    os.rename(f"json_files/{file}", f"json_files/{name}")
+
 def main():
     while(True):
         command = input(">>> ")
@@ -50,6 +53,10 @@ def main():
         elif command.split()[0] == 'eliminar':
             delete(command.split()[1], command.split()[2])
             print("Eliminado")
+
+        elif command.split()[0] == 'renombrar':
+            rename(command.split()[1], command.split()[2])
+            print(f"Se cambió el nombre del archvio de '{command.split()[1]}' a '{command.split()[2]}'")
 
         elif command.split()[0] == 'salir':
             break
