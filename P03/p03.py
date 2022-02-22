@@ -1,11 +1,6 @@
 import json, os, shutil
 from collections import OrderedDict
 
-data = open('json_files/Jalisco.json', 'r')
-
-data_json = json.load(data)
-data.close()
-
 def copy(file, state):
     try:
         file_data = open(f"json_files/{file}", 'r+')
