@@ -7,7 +7,7 @@ data.close()
 
 def copy(file, state):
     try:
-        file_data = open(f"out_files/{file}", 'r+')
+        file_data = open(f"json_files/{file}", 'r+')
         file_data_json = json.load(file_data)
         file_data.seek(0)
         file_data.truncate()
@@ -16,15 +16,29 @@ def copy(file, state):
         state_name = state.split('.')[0]
         file_data_json[state_name] = state_data_json
         file_data.write(json.dumps(file_data_json, indent=4))
+
     except:
-        file_data = open(f"out_files/{file}", 'w')
+        file_data = open(f"json_files/{file}", 'w')
         state_data = open(f"json_files/{state}", 'r')
         state_data_json = json.load(state_data)
         state_name = state.split('.')[0]
         file_data.write(json.dumps({state_name:state_data_json}, indent=4))
+
     file_data.close()
     state_data.close()
 
+def delete(file, zipcode):
+    try:
+        file_data = open(f"json_files/{file}", 'r+')
+        file_data_json = json.load(file_data)
+        file_data.seek(0)
+        file_data.truncate()
+        del file_data_json[zipcode]
+        file_data.write(json.dumps(file_data_json, indent=4))
+        file_data.close()
+
+    except:
+        print("No se pudo eliminar, escribe el comando correctamente")
 
 def main():
     while(True):
@@ -32,8 +46,14 @@ def main():
         if command.split()[0] == 'copiar':
             copy(command.split()[1], command.split()[2])
             print("Copiado")
+
+        elif command.split()[0] == 'eliminar':
+            delete(command.split()[1], command.split()[2])
+            print("Eliminado")
+
         elif command.split()[0] == 'salir':
             break
+
         else:
             print("Comando no reconocido")
 
