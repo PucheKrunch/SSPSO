@@ -1,4 +1,4 @@
-import json, os
+import json, os, shutil
 from collections import OrderedDict
 
 data = open('json_files/Jalisco.json', 'r')
@@ -73,7 +73,16 @@ def combine(file1, file2):
     merged_data_file.close()
 
 def group(files):
-    pass
+    i = 1
+    while(True):
+        if os.path.exists(f"json_files/Agrupación{i}"):
+            i += 1
+        else:
+            break
+    os.makedirs(f"json_files/Agrupación{i}")
+    for file in files:
+        shutil.copyfile(f"json_files/{file}", f"json_files/Agrupación{i}/{file}")
+    return f"Agrupación{i}"
 
 def main():
     while(True):
