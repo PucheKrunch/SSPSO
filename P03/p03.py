@@ -1,4 +1,5 @@
 import json, os
+from collections import OrderedDict
 
 data = open('json_files/Jalisco.json', 'r')
 
@@ -43,6 +44,37 @@ def delete(file, zipcode):
 def rename(file, name):
     os.rename(f"json_files/{file}", f"json_files/{name}")
 
+def combine(file1, file2):
+    file1_data =  open(f"json_files/{file1}", 'r')
+    file1_data_json = json.load(file1_data)
+    file1_data.close()
+    file2_data =  open(f"json_files/{file2}", 'r')
+    file2_data_json = json.load(file2_data)
+    file2_data.close()
+    merged_data = OrderedDict()
+    file1_keys = list(file1_data_json.keys())
+    file2_keys = list(file2_data_json.keys())
+    minor = file1_keys if len(file1_data_json) < len(file2_data_json) else file2_keys
+    for i in range(len(minor)):
+        merged_data[file1_keys[i]] = file1_data_json[file1_keys[i]]
+        merged_data[file2_keys[i]] = file2_data_json[file2_keys[i]]
+        last_index = i + 1
+    if len(file1_data_json) > len(file2_data_json):
+        for i in range(last_index, len(file1_data_json)):
+            merged_data[file1_keys[i]] = file1_data_json[file1_keys[i]]
+    else:
+        for i in range(last_index, len(file2_data_json)):
+            merged_data[file2_keys[i]] = file2_data_json[file2_keys[i]]
+
+    file1_name = file1.split('.')[0]
+    file2_name = file2.split('.')[0]
+    merged_data_file = open(f"json_files/{file1_name}_{file2_name}.json", 'w')
+    merged_data_file.write(json.dumps(merged_data, indent=4))
+    merged_data_file.close()
+
+def group(files):
+    pass
+
 def main():
     while(True):
         command = input(">>> ")
@@ -57,6 +89,13 @@ def main():
         elif command.split()[0] == 'renombrar':
             rename(command.split()[1], command.split()[2])
             print(f"Se cambió el nombre del archvio de '{command.split()[1]}' a '{command.split()[2]}'")
+
+        elif command.split()[0] == 'combinar':
+            combine(command.split()[1], command.split()[2])
+            print("Combinado")
+
+        elif command.split()[0] == 'agrupar':
+            print(f"Archivos agrupados en la carpeta '{group(command.split()[1::])}'")
 
         elif command.split()[0] == 'salir':
             break
