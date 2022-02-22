@@ -1,0 +1,4656 @@
+{
+    "23000": [
+        {
+            "Colonia": "Zona Central",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23007": [
+        {
+            "Colonia": "Palacio de Gobierno del Estado de Baja California Sur",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23009": [
+        {
+            "Colonia": "Oficina Federal de Hacienda",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23010": [
+        {
+            "Colonia": "Ciudad del Cielo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Colina del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Lomas de Palmira",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agust\u00edn Olachea",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23017": [
+        {
+            "Colonia": "Paseos del Cortes",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23018": [
+        {
+            "Colonia": "Alfonso Sanchez Madariaga INFONAVIT",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pedregal del Cortes",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23019": [
+        {
+            "Colonia": "Policentro Palmira",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pedregal de la Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Punta Prieta",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23020": [
+        {
+            "Colonia": "Colina de La Cruz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Esterito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ladrillera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Guerrero",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Manuel Rivera Anaya",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23026": [
+        {
+            "Colonia": "Antonio Navarro Rubio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Antonio Navarro Rubio",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23029": [
+        {
+            "Colonia": "Zona Militar",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23030": [
+        {
+            "Colonia": "Francisco Villa",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Lienzo Charro",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Loma Linda",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Pablo Guelatao",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23034": [
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23037": [
+        {
+            "Colonia": "Jacinto Lopez",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23038": [
+        {
+            "Colonia": "Loma Obrera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Valle de las Vinoramas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Paredones",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas de Guadalupe",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Laguna Azul",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Marquez de Leon",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Marquez de Leon",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23039": [
+        {
+            "Colonia": "La Escondida",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23040": [
+        {
+            "Colonia": "Adolfo Ruiz Cortines",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Rinconada",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Olivos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Perla",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Petrolera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "ISSSTE",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23050": [
+        {
+            "Colonia": "Bella Vista",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez Oriente",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Roma",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Rosaura Zapata",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Tecnol\u00f3gico",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Zona Industrial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Misiones de Loreto",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Carrizal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Cruz de Piedra",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Bella Vista Plus",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Campanario",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23052": [
+        {
+            "Colonia": "20 de Noviembre",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23054": [
+        {
+            "Colonia": "Calafia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Cihuat\u00e1n (Costa Azul)",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23055": [
+        {
+            "Colonia": "Jardines del Sur",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Jardines del Sur",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23056": [
+        {
+            "Colonia": "Flores Mag\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Popular Indeco",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23060": [
+        {
+            "Colonia": "California",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Barrio El Manglito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Inal\u00e1mbrica",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Su Casa",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Pablo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Primero de Mayo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Quinta Esmeralda",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Lomas de Catavi\u00f1a",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23070": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Oro Blanco",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Residencial las Garzas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Jardines de la Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Sendero las Flores",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pescadores",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Grullas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Indeco",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23075": [
+        {
+            "Colonia": "Balandra",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Privada Las Garzas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Molino Harinero II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Molino Harinero",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Borrego Cimarr\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "3 de Mayo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agust\u00edn Arriola",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "3 de Mayo II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Miguel Canseco",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Santa M\u00f3nica",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23076": [
+        {
+            "Colonia": "Burocr\u00e1tica las Garzas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Cactus",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Agust\u00edn",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Islas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Civilizadores I",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Civilizadores II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villa Santa Mar\u00eda",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Popular Garza V",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Tunas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Residencial Santa Rita",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23077": [
+        {
+            "Colonia": "17 de Octubre",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23078": [
+        {
+            "Colonia": "Embotelladores 83",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Libertad",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Unidad Donceles 28",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los \u00c1ngeles Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Residencial Balandra",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Clemente Guillen",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23079": [
+        {
+            "Colonia": "Las Garzas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Rio Blanco",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Domingo Carballo F\u00e9lix",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23080": [
+        {
+            "Colonia": "8 de Octubre 1a Secci\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Rinconada el Cardonal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Campestre el Mezquitito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Bledales (La Ceibita)",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "28 de Octubre (Kil\u00f3metro 6)",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "1 de Mayo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Mezquitito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Universitario",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Fuerza A\u00e9rea",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "BANOBRAS",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Sudcalifornia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agua Escondida",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23083": [
+        {
+            "Colonia": "Misiones II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Isidro Coto Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Solidaridad Mezquitito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Fernando",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Misiones",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23084": [
+        {
+            "Colonia": "Las Californias",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "INVI El Mezquitito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Estancia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Vista Dorada",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Puerta Real Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n El Progreso",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Progreso",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Diana Laura",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Tabachines",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Progreso",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "VIVAH El Progreso",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Dorado",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Palmar II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pen\u00ednsula Sur",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Terranova",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Valle del Mezquite",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23085": [
+        {
+            "Colonia": "La Cima Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Bledales",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Calandrio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Santa Fe",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "8 de Octubre 2a Secci\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Azul Marino",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Correcaminos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Coromuel",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los \u00c1lamos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Altezza Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Quintas San Patricio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Altamira Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Hispania Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Antares Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Altavela",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Mar de Cortez",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Paseos del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Leonardo Rodriguez",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Universidad Aut\u00f3noma de Baja California Sur",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Calandrio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Pescador",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Miramar",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Am\u00e9ricas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Virreyes",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas de San Lorenzo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Para\u00edso del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas del Encanto",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Miguel II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arbolares",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Carlos III",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Brisas de las Olas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Rinconada las Californias",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Rafael",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23086": [
+        {
+            "Colonia": "\u00c1ngel Cesar Mendoza Aramburo",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23088": [
+        {
+            "Colonia": "Del Mar Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Perla del Golfo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arcoiris II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arcoiris III",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Cola de la Ballena",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Real del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Vista Real",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Bella California",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Lomas del Card\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Campestre el Card\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Bella California III",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Fuente",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arcoiris",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ayuntamiento",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Camino Real",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agua Clara",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Calafia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Zacatal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Ayuntamiento",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23089": [
+        {
+            "Colonia": "Zona Antiguo Aeropuerto",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Palmar IV",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Pasi\u00f3n C",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Maurel Residencial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Jerico",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Cardoncito II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "INVI Chametla",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Valle Dorado",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Fuerza A\u00e9rea",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas de La Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Parque Industrial",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Palmar I",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas del Cortes",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Olas Altas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Pitahaya",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Cardoncito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Cardones",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23090": [
+        {
+            "Colonia": "El Conchalito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Campestre",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Jardines de La Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Puesta del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Casa Blanca",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Inalapa",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Bahia de la Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Batall\u00f3n de Infanter\u00eda de Marina No. 4",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Solidaridad",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Girasoles",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arcos del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Arcos del Sol I",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Marino",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Esperanza 2",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Esperanza 3",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Cactus Harinera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Tulipanes",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Capullo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Privadas del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Antonio El Zacatal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Marina Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Atardeceres",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23094": [
+        {
+            "Colonia": "Sector La Selva Fidepaz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Flores",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ballenas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Quintas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los C\u00e1ntaros",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Peces",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23095": [
+        {
+            "Colonia": "La Sirena",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Sector Santa Rita",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Balandra Puesta del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Nueva Puesta del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23096": [
+        {
+            "Colonia": "Guaycura",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Playa de Santa Rita",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23097": [
+        {
+            "Colonia": "Los Pericues",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Mineros (Perla ROFOMEX)",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Misioneros",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ciudad del Recreo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Villas del Mar",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Plan Hidr\u00e1ulico",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Residencial Marina Sur",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23098": [
+        {
+            "Colonia": "CCC y Perla de La Paz",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Garzas Agr\u00edcolas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Garzas INFONAVIT",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Sector Inalapa",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "C\u00e1caros",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Mar\u00eda Conchita",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Margaritas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Azaleas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23099": [
+        {
+            "Colonia": "Las Arboledas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Residencial Loreto",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Estrella",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23100": [
+        {
+            "Colonia": "San Bartolo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Golondrinas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23106": [
+        {
+            "Colonia": "El Palo Verde",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23130": [
+        {
+            "Colonia": "Santa Rita",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23133": [
+        {
+            "Colonia": "El Agua de los Coyotes",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23134": [
+        {
+            "Colonia": "Puerto Chale",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23140": [
+        {
+            "Colonia": "Las \u00c1nimas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23143": [
+        {
+            "Colonia": "San Evaristo",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23150": [
+        {
+            "Colonia": "Las Pocitas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Refugio",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23154": [
+        {
+            "Colonia": "La Cieneguita",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23170": [
+        {
+            "Colonia": "San Hilario",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23174": [
+        {
+            "Colonia": "San Juan de la Costa",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23200": [
+        {
+            "Colonia": "San Antonio de la Cruz",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23203": [
+        {
+            "Colonia": "Alfredo V Bonfil",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23205": [
+        {
+            "Colonia": "El Centenario",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Chametla",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Puerta Azul",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Centenario",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Comit\u00e1n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Para\u00edso del Mar",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23206": [
+        {
+            "Colonia": "La Paz (Gral. Manuel M\u00e1rquez de Le\u00f3n)",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agroexportadora del Noroeste",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23208": [
+        {
+            "Colonia": "La Fortuna",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Rosarito",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Puerto de Pichilingue",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Lagunita",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23209": [
+        {
+            "Colonia": "Las Vinoramas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23210": [
+        {
+            "Colonia": "El Triunfo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23213": [
+        {
+            "Colonia": "El Encino",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23215": [
+        {
+            "Colonia": "Agua Blanca",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23216": [
+        {
+            "Colonia": "Las 3 Pachitas",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23217": [
+        {
+            "Colonia": "El Rosario 1",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23230": [
+        {
+            "Colonia": "San Juan de los Planes",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "General Juan Dom\u00ednguez Cota",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23232": [
+        {
+            "Colonia": "San Ferm\u00edn (La Cuesta)",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Sargento",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Ventana",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23234": [
+        {
+            "Colonia": "Agua Amarga",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San \u00c1ngel",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Pedro M\u00e9xico",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23236": [
+        {
+            "Colonia": "Ensenada de Muertos",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23240": [
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23243": [
+        {
+            "Colonia": "El Anc\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23244": [
+        {
+            "Colonia": "Los Tamales",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23247": [
+        {
+            "Colonia": "San Ramon",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23248": [
+        {
+            "Colonia": "Los Divisaderos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "\u00c1lvaro Obreg\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Trinchera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Palmarito II",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Pozo",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23249": [
+        {
+            "Colonia": "Los Algodones",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Santa Rita",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23250": [
+        {
+            "Colonia": "El Carrizal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Trinidad",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Agr\u00edcola Santa Lidia",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23252": [
+        {
+            "Colonia": "San Martin",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Cachanilla",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23257": [
+        {
+            "Colonia": "Santa Martha",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23258": [
+        {
+            "Colonia": "Melit\u00f3n Alb\u00e1\u00f1ez Dom\u00ednguez",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23280": [
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23283": [
+        {
+            "Colonia": "Ley Federal de Reforma Agraria Dos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "NCPE Conquista Agraria",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Ley Federal de Reforma Agraria Uno",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23289": [
+        {
+            "Colonia": "Buenavista",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23300": [
+        {
+            "Colonia": "Centro",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Calera",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Coyote",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Tunas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Poza",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Cahchora",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Vuelo del \u00c1guila",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Orcadita",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Puesta del Sol",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Vicente",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Quintas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Flores",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Ignacio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Rio",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Brisas del Pacifico",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Pescadero",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23302": [
+        {
+            "Colonia": "La Matanza",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23303": [
+        {
+            "Colonia": "La Vinater\u00eda",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Ca\u00f1\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23304": [
+        {
+            "Colonia": "El Salto",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23308": [
+        {
+            "Colonia": "El Batequito",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23311": [
+        {
+            "Colonia": "El Valle Perdido",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23312": [
+        {
+            "Colonia": "El Pintado",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23317": [
+        {
+            "Colonia": "San Sim\u00f3n",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23320": [
+        {
+            "Colonia": "Boca del \u00c1lamo",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23322": [
+        {
+            "Colonia": "Santa Martha",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23328": [
+        {
+            "Colonia": "San Bartolo Sur",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23329": [
+        {
+            "Colonia": "Rinc\u00f3n de Leon",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23330": [
+        {
+            "Colonia": "Los Barriles",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23333": [
+        {
+            "Colonia": "El Coro",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Corral Falso",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23334": [
+        {
+            "Colonia": "Agua de la Costa",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23350": [
+        {
+            "Colonia": "El Sacrificio",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23354": [
+        {
+            "Colonia": "El Cardonal",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Pescadero",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Los Algodones",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La L\u00ednea",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Las Tinas",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "Punta Pescadero",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23360": [
+        {
+            "Colonia": "El Refugio Sur",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23361": [
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23362": [
+        {
+            "Colonia": "Punta Lobos",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "El Salado",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "San Mart\u00edn",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23363": [
+        {
+            "Colonia": "El Palmar",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23364": [
+        {
+            "Colonia": "San Jacinto",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23365": [
+        {
+            "Colonia": "San Pedro de La Soledad",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23366": [
+        {
+            "Colonia": "El Barranco",
+            "Municipio": "Baja California Sur La Paz"
+        },
+        {
+            "Colonia": "La Cuesta",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23390": [
+        {
+            "Colonia": "Plutarco Elias Calles",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23395": [
+        {
+            "Colonia": "El Palmarito",
+            "Municipio": "Baja California Sur La Paz"
+        }
+    ],
+    "23400": [
+        {
+            "Colonia": "San Jos\u00e9 del Cabo Centro",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23403": [
+        {
+            "Colonia": "El Encanto de la Laguna",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rinc\u00f3n de la Playa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Playa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "San Vicente",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Choya INFONAVIT",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23405": [
+        {
+            "Colonia": "Loma Encantada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Palmilla",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rancho Cerro Colorado",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Colorado",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Club de Golf FONATUR",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Zona Hotelera San Jos\u00e9 del Cabo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Real",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Joya de los Cabos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Mykonos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Coral Baja",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ma\u00f1anitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Antigua",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista Colorada",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23406": [
+        {
+            "Colonia": "8 de Octubre",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Club Campestre San Jos\u00e9",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Primero de Mayo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "5 de Febrero",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Costa Azul",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Gringos Hill",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas de La Jolla",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villas de La Joya",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cerro del Vig\u00eda",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Terrazas Costa Azul",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23407": [
+        {
+            "Colonia": "Rosarito",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Animas Bajas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Animas Altas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Guaymitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rinconada La Huerta",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23420": [
+        {
+            "Colonia": "Invi Santa Anita",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Real del Monte",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Costa Dorada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Santa Anita",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Aeropuerto",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23425": [
+        {
+            "Colonia": "Santa Catarina",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23426": [
+        {
+            "Colonia": "La Ballena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Puerto Nuevo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Invi San Jos\u00e9 Viejo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Loma Cruz",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23427": [
+        {
+            "Colonia": "Monte Bello Condominio Plus",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Vista Hermosa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Zacatal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Colinas San Jos\u00e9",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villas de Cortez",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23428": [
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23429": [
+        {
+            "Colonia": "San Jos\u00e9 del Cabo (Los Cabos)",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23434": [
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "P\u00e9njamo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Oasis",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Veredas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Costa Dorada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villa Bonita",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23435": [
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Veredas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "FOVISSSTE las Veredas",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23436": [
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "San Bernabe",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23437": [
+        {
+            "Colonia": "El Lim\u00f3n",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Dunas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Viejo",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23440": [
+        {
+            "Colonia": "Jes\u00fas Castro Agundes",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23443": [
+        {
+            "Colonia": "Mauricio Castro",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Chula Vista",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Aguajito",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23444": [
+        {
+            "Colonia": "Pablo L Martinez",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Luis Donaldo Colosio",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas de Rosarito",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Monte Real Residencial",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Colinas Plus",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Country del Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23445": [
+        {
+            "Colonia": "Lomas de Guaymitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23450": [
+        {
+            "Colonia": "Cabo San Lucas Centro",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza Bonita",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza Real",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza del Marlin",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza N\u00e1utica",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Plaza las Glorias",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La D\u00e1rsena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Modulo Tur\u00edstico",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23453": [
+        {
+            "Colonia": "El Medano",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Marina",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Terrasol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Pedregal",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23454": [
+        {
+            "Colonia": "La Noria",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Villas del Tezal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Luna del Tezal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ventanas del Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rancho Para\u00edso",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo del Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ventanas de Cabo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Tezal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Zona Hotelera",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial La Cima",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Punta Arena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial Maranata",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial San Luciano",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cumbres del Tezal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Privanzas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Vista",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista Bah\u00eda",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Mediterr\u00e1nea",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Puerta del Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vistana",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ventanas del Cort\u00e9s",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23455": [
+        {
+            "Colonia": "Punta Ballena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Residencias",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Hacienda Encantada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial Olamar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Bello",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Santa Carmela",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Misiones del Cabo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial Cabo del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villa Serena",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23456": [
+        {
+            "Colonia": "Pueblo Bonito Montecristo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Pueblo Bonito Sunset",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Pueblo Bonito Palacio",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Estrella de Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Arco Iris",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Colinas de Cabo Baja",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Balcones",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Jazmines",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Acuario",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Bella Vista",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas del Cabo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Miramar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Altos de Miramar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rinc\u00f3n de Miramar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Palmar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Para\u00edso",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Privada Perla",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Real de Miramar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Quintas California",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23460": [
+        {
+            "Colonia": "Zona Ejidal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Arenal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Mariano Matamoros",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Tabachines",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23462": [
+        {
+            "Colonia": "Leonardo Gast\u00e9lum Quinta Etapa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Para\u00edso del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Aura Residencial",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Real Unidad",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Caribe Bajo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lagunitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Mesa Colorada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Mesa Colorada II",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Mesa Colorada III",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Leonardo Rodr\u00edguez Gast\u00e9lum",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23463": [
+        {
+            "Colonia": "Cabo San Lucas Country Club",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23467": [
+        {
+            "Colonia": "Residencial San Jer\u00f3nimo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Toscana",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villa Neptuno",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cresta del Mar",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Hermitage",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Punta Arena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial Ciruelos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista de Cort\u00e9s",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Terrazas las Fuentes",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Misiones",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Tamar Residencial",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Sierra Dorada",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Puerta de Hierro",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial Puerta del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista Real",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Reyna Avalos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Amalfi",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Casa Mexicana",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Coto San Diego",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23468": [
+        {
+            "Colonia": "Mariano Matamoros",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "INFONAVIT Viejo",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23469": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Coromuel",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Ju\u00e1rez",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23470": [
+        {
+            "Colonia": "La Cruz",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n 4 de Marzo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ejidal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Ildefonso Green",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lienzo Charro Centro",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Nueva Ejidal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Libertad",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23472": [
+        {
+            "Colonia": "4 de Marzo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Obrera",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas del Faro Viejo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "N\u00facleo Agrario",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas Altas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23473": [
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Altamira",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Altamira Condominios Plus",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Agua Clara",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Santa B\u00e1rbara",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Hills Villas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cerro de los Venados",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Tesoro Residencial",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas del Pacifico",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Jacarandas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Hojazen",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cerro de los Venados",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Auroras",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Brisas del Pacifico Codepa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Brisas del Pacifico",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "INFONAVIT Nuevo",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Los Cangrejos",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Gardenias",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Portales",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Casa Blanca",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Terranova",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23474": [
+        {
+            "Colonia": "Arcos del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Jardines del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Inova",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Villas de La Joya",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23475": [
+        {
+            "Colonia": "Hemisferia",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23477": [
+        {
+            "Colonia": "Chulavista",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cabo Fierro",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Progreso",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas del Sol",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Tierra y Libertad",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Progreso",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Caribe",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Residencial La Pe\u00f1a",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Magisterial Viva",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Celeste Residencial",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Rosa Delia",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Misiones de Santa Fe",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Lomas del Valle",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23478": [
+        {
+            "Colonia": "Arcos del Sol II",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23500": [
+        {
+            "Colonia": "Santa B\u00e1rbara",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Milpillas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Santiago",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Refugio",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Zacatal",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Matancitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23501": [
+        {
+            "Colonia": "El Epazote",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23503": [
+        {
+            "Colonia": "Rosarito",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23510": [
+        {
+            "Colonia": "Agua Caliente",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23520": [
+        {
+            "Colonia": "Boca de la Sierra",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Miraflores",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23522": [
+        {
+            "Colonia": "La Palmilla",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Las Casitas",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23530": [
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "Cadua\u00f1o",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23533": [
+        {
+            "Colonia": "Los Frailes",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23535": [
+        {
+            "Colonia": "Palo Escopeta",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23560": [
+        {
+            "Colonia": "Las Cuevas",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Campamento",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23563": [
+        {
+            "Colonia": "El Leonero",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23567": [
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23570": [
+        {
+            "Colonia": "Don Mart\u00edn",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "La Ribera",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23574": [
+        {
+            "Colonia": "Cabo Pulmo",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23575": [
+        {
+            "Colonia": "Las Barrancas",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23580": [
+        {
+            "Colonia": "Buenavista",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23581": [
+        {
+            "Colonia": "La Ballena",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "San Felipe",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23586": [
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23590": [
+        {
+            "Colonia": "La Candelaria",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23593": [
+        {
+            "Colonia": "Boca del Saucito",
+            "Municipio": "Baja California Sur Los Cabos"
+        },
+        {
+            "Colonia": "El Sauzal",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23597": [
+        {
+            "Colonia": "Buenavista",
+            "Municipio": "Baja California Sur Los Cabos"
+        }
+    ],
+    "23600": [
+        {
+            "Colonia": "Zona Centro",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Cerro Catedral",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "INVI Olivos Juan Dom\u00ednguez Cota",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23610": [
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23620": [
+        {
+            "Colonia": "Vargas",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Longoria",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Renero",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Cecilia Madrid",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23630": [
+        {
+            "Colonia": "Los Olivos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23640": [
+        {
+            "Colonia": "El Para\u00edso",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "FOVISSSTE Olimpico",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Ol\u00edmpico",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23641": [
+        {
+            "Colonia": "4 de Marzo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Conjunto Urbano del Norte",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n 4 de marzo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23650": [
+        {
+            "Colonia": "INVI Hacienda",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Lienzo Charro",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23653": [
+        {
+            "Colonia": "Militar",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23658": [
+        {
+            "Colonia": "Residencial La Hacienda",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23660": [
+        {
+            "Colonia": "Guaycura",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23670": [
+        {
+            "Colonia": "El Crucero",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23676": [
+        {
+            "Colonia": "Pioneros II",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "FOVISSSTE Pioneros",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Pioneros",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23677": [
+        {
+            "Colonia": "Constituci\u00f3n",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Conjunto Urbano del Sur",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23678": [
+        {
+            "Colonia": "San Isidro Labrador",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Plano Oriente",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23680": [
+        {
+            "Colonia": "Valle Para\u00edso",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "FOVISSSTE Real",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Real",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23683": [
+        {
+            "Colonia": "Paseos de Don Pelayo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23690": [
+        {
+            "Colonia": "INFONAVIT San Mart\u00edn",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Batequitos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23695": [
+        {
+            "Colonia": "Roberto Esperon",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23696": [
+        {
+            "Colonia": "Los Romeros",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "El Agricultor INDECO",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23697": [
+        {
+            "Colonia": "Brisas del Valle",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23700": [
+        {
+            "Colonia": "Ciudad Insurgentes",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Fernando de la Toba (Los Algarrobos)",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23708": [
+        {
+            "Colonia": "Rio Mayo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23710": [
+        {
+            "Colonia": "Puerto Adolfo L\u00f3pez Mateos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23715": [
+        {
+            "Colonia": "Villa Ignacio Zaragoza",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23720": [
+        {
+            "Colonia": "Villa Hidalgo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23721": [
+        {
+            "Colonia": "San Juan de Matancitas",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Ramaditas",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23723": [
+        {
+            "Colonia": "Josefa Ortiz de Dom\u00ednguez",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23730": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23734": [
+        {
+            "Colonia": "Teotlan",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23736": [
+        {
+            "Colonia": "Palo Bola",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23737": [
+        {
+            "Colonia": "El Vallecito",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23739": [
+        {
+            "Colonia": "Navojoa 1",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23740": [
+        {
+            "Colonia": "Puerto San Carlos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23743": [
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23748": [
+        {
+            "Colonia": "Puerto Magdalena",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23749": [
+        {
+            "Colonia": "Puerto Alcatraz",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23750": [
+        {
+            "Colonia": "Puerto Cortes",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23760": [
+        {
+            "Colonia": "Ley Federal de Aguas No 5",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23765": [
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "San Luis Gonzaga",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23766": [
+        {
+            "Colonia": "Tepentu",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23767": [
+        {
+            "Colonia": "Lagunita",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23770": [
+        {
+            "Colonia": "Villa Morelos",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23771": [
+        {
+            "Colonia": "El Vergel",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23774": [
+        {
+            "Colonia": "Las Delicias",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23775": [
+        {
+            "Colonia": "Yaquis Lote 13",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23780": [
+        {
+            "Colonia": "Ley Federal de Aguas No 4",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23789": [
+        {
+            "Colonia": "Santa Teresa",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23790": [
+        {
+            "Colonia": "Ley Federal de Aguas No 3",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23800": [
+        {
+            "Colonia": "San Miguel de Comond\u00fa",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23805": [
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23810": [
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23812": [
+        {
+            "Colonia": "La Yaqui",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "San Juanico",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23813": [
+        {
+            "Colonia": "Paso Hondo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Pur\u00edsima Vieja",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23818": [
+        {
+            "Colonia": "La Bocana de San Gregorio",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23820": [
+        {
+            "Colonia": "Carambuche",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "La Pur\u00edsima",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "El Pabell\u00f3n",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "San Jos\u00e9 de Comond\u00fa",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23824": [
+        {
+            "Colonia": "Ojo de Agua",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23830": [
+        {
+            "Colonia": "La Poza Grande",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Francisco Villa",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23834": [
+        {
+            "Colonia": "El Chicharr\u00f3n",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Las Barrancas",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23837": [
+        {
+            "Colonia": "San Venancio",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23838": [
+        {
+            "Colonia": "Canelo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23840": [
+        {
+            "Colonia": "Mar\u00eda Auxiliadora",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23844": [
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        },
+        {
+            "Colonia": "Jalisco",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23845": [
+        {
+            "Colonia": "El Palo Alto",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23860": [
+        {
+            "Colonia": "Ley Federal de Aguas No 2",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23870": [
+        {
+            "Colonia": "Ley Federal de Aguas N\u00famero Uno",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23873": [
+        {
+            "Colonia": "San Ignacio",
+            "Municipio": "Baja California Sur Comond\u00fa"
+        }
+    ],
+    "23880": [
+        {
+            "Colonia": "INVI",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Centro",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Zaragoza",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Obrera",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Jaral",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Miramar",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Misioneros",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Exploradores",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Nuevo Loreto",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23883": [
+        {
+            "Colonia": "Las Parras",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Pent House",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lomas Altas",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lomas Lindas",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Pozo de los Murillo",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23884": [
+        {
+            "Colonia": "Las Brisas",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Arroyo de Leon",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Morena",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Troquero",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Bruno",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Cardonal",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Hacienda Guadalupe",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Pozo Redondo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Las Bebelamas",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Monte Cabello",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23885": [
+        {
+            "Colonia": "San Vicente",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23886": [
+        {
+            "Colonia": "Naocojoa",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23887": [
+        {
+            "Colonia": "Cadej\u00e9",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Canipole",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Nopolo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Manglito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23888": [
+        {
+            "Colonia": "San Juan Bautista Londo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Imposible",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Rancho el 47",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lote 2a",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lote 3a",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Giganta",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Cimarr\u00f3n",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Los B\u00fafalos",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lote 11",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Lote 67",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "P\u00e9njamo",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23889": [
+        {
+            "Colonia": "Loreto (Loreto)",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23890": [
+        {
+            "Colonia": "Rancho Viejo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa Isabel",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Guillermo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Chula Vista",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Calera",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23893": [
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Peloteado",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Javier",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Segundo Paso",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Fortuna",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Los Dolores",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Pasito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Presa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Los Corrales",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Rancho Nuevo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Agua Escondida",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El P\u00faa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Bel\u00e9n",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Poza Gonzalez",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Aguaje",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Higuera",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Agua Bonita",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Angel",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23894": [
+        {
+            "Colonia": "Puerto Escondido",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Incha",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Saucito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Juncalito",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23895": [
+        {
+            "Colonia": "Ligui",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Palo Blanco",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Ed\u00e9n",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Poza Teresa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Vuelta del Cerro",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Mezquite",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Lucas",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Angostura",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa In\u00e9s",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Palmarcito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Altagracia",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Ensenada Blanca",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23896": [
+        {
+            "Colonia": "El Huatamote",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Enga\u00f1osa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Los Corrales",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Divisadero",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Carrizalito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Poza Verde",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Cruz",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Enrique",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Poza Seca",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Agua Amarga",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Los Sestiaderos",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Paso de Santa Cruz",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La Presa",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Rancho Viejo",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "La \u00daltima Agua",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Cosme",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23897": [
+        {
+            "Colonia": "Puerto Agua Verde",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "San Antonio de La Higuera",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Agua Verde",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Tulillo",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23898": [
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Santa Martha",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "El Carrizalito",
+            "Municipio": "Baja California Sur Loreto"
+        },
+        {
+            "Colonia": "Timbabichi",
+            "Municipio": "Baja California Sur Loreto"
+        }
+    ],
+    "23900": [
+        {
+            "Colonia": "La Paloma",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Heroica Muleg\u00e9 Centro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Rebaje",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "La Calera",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Punta de Agua",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Cananea",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Rancher\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Loma Azul",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Cacheno",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Benavides",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Tinajitas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23902": [
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23903": [
+        {
+            "Colonia": "El Coyote",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23904": [
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23910": [
+        {
+            "Colonia": "Isla San Marcos",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Bruno",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23911": [
+        {
+            "Colonia": "San Jos\u00e9 de Magdalena",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Lucas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Santa \u00c1gueda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23912": [
+        {
+            "Colonia": "Palo Verde",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Punta Chivato",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Las Cuevitas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Perdido",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23913": [
+        {
+            "Colonia": "Santa Isabel del Boleo",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Sebasti\u00e1n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23914": [
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Las Tunas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23915": [
+        {
+            "Colonia": "El D\u00e1til",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Card\u00f3n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Luis Echeverr\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "La Angostura",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23916": [
+        {
+            "Colonia": "El D\u00e1til",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Bartolo",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23917": [
+        {
+            "Colonia": "Jes\u00fas Mar\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23920": [
+        {
+            "Colonia": "Mesa Francia",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "La Villita",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Rancher\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Canad\u00e1",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Nivel 50",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Retiro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Los Frailes",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Unidad Deportiva",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "CADEPO",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Centro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Mesa M\u00e9xico",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Hidalgo",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Nueva Santa Rosal\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Costa Azul",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Bellavista",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Canastilla",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23921": [
+        {
+            "Colonia": "Santa Mar\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23922": [
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23923": [
+        {
+            "Colonia": "Licenciado Alfredo Vladimir Bonfil",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23924": [
+        {
+            "Colonia": "San Lino",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23930": [
+        {
+            "Colonia": "El Rinc\u00f3n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "La Correa",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Rastro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Ignacio Centro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Guam\u00fachil",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23934": [
+        {
+            "Colonia": "Los M\u00e1rtires",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Porvenir",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "San Benito",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23935": [
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Don Juanito",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Gustavo D\u00edaz Ordaz",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Las Margaritas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23936": [
+        {
+            "Colonia": "El Caracol",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Nueva Esperanza",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Silencio",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23938": [
+        {
+            "Colonia": "Uni\u00f3n y Progreso",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Nueva Oaxaca",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Leonel Cota Monta\u00f1o",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Villa Alberto Alvarado Aramburo",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Triky",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Elizabeth",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23940": [
+        {
+            "Colonia": "Fundo Legal",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "El Domin\u00f3",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Guerrero Negro Centro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Solidaridad",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Libertad",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Profesor Marcelo Rubio",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "FOVISSSTE",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Estado 30",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23944": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Laguneros",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23948": [
+        {
+            "Colonia": "Gustavo Diaz Ordaz II Etapa (rancho La Joya)",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23949": [
+        {
+            "Colonia": "Santo Tom\u00e1s",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Francisco J M\u00fajica",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23950": [
+        {
+            "Colonia": "Centro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Deportiva",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Lomas de Guadalupe",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "1 de Septiembre",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Pescadores",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Marina Nacional",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "\u00c1lvaro Obreg\u00f3n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "La Pur\u00edsima",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Auditorio",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "M\u00e1rque de Le\u00f3n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Angeles Mendoza",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        },
+        {
+            "Colonia": "Bah\u00eda Tortugas",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23951": [
+        {
+            "Colonia": "Isla Natividad",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23952": [
+        {
+            "Colonia": "Punta Eugenia",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23959": [
+        {
+            "Colonia": "San Jos\u00e9 de Castro",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23960": [
+        {
+            "Colonia": "Bah\u00eda Asunci\u00f3n",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23969": [
+        {
+            "Colonia": "San Roque",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23970": [
+        {
+            "Colonia": "Punta Abreojos",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23971": [
+        {
+            "Colonia": "Punta Prieta",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23972": [
+        {
+            "Colonia": "San Hip\u00f3lito Bah\u00eda",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23973": [
+        {
+            "Colonia": "Estero de la Bocana",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23980": [
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23983": [
+        {
+            "Colonia": "Guillermo Prieto",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23988": [
+        {
+            "Colonia": "San Francisco de la Sierra",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23990": [
+        {
+            "Colonia": "El Carricito",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ],
+    "23997": [
+        {
+            "Colonia": "El Mezquital 1",
+            "Municipio": "Baja California Sur Muleg\u00e9"
+        }
+    ]
+}

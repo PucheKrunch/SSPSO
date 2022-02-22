@@ -1,0 +1,6492 @@
+{
+    "90000": [
+        {
+            "Colonia": "Tlaxcala Centro",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90005": [
+        {
+            "Colonia": "Huertas de San Francisco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90006": [
+        {
+            "Colonia": "Universidad Aut\u00f3noma de Tlaxcala",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90010": [
+        {
+            "Colonia": "San Buenaventura Atempan",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90013": [
+        {
+            "Colonia": "Xicoht\u00e9ncatl",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90014": [
+        {
+            "Colonia": "Vista Malintzi",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Bosque",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Potrillos",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Causes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Magisterial Vista Hermosa",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Cuarto Se\u00f1or\u00edo",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Volcanes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90019": [
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90020": [
+        {
+            "Colonia": "Pensionados Militares",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90030": [
+        {
+            "Colonia": "Felipe Santiago Xicot\u00e9ncatl",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Volcanes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Las \u00c1nimas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Paso de Cortes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Cuarto Se\u00f1or\u00edos",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Real del Sol",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Lomas de Coyotepec",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Las \u00c1nimas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Ameyal",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Residencial Jardines de San Gabriel",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Villa de los \u00c1ngeles",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Girasoles",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Real",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90040": [
+        {
+            "Colonia": "San Miguel Tlamahuco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90050": [
+        {
+            "Colonia": "Ocotl\u00e1n INFONAVIT",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90060": [
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90062": [
+        {
+            "Colonia": "El Llanito",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Xicoht\u00e9ncatl",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Tlapala",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90080": [
+        {
+            "Colonia": "Del Maestro",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90090": [
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90099": [
+        {
+            "Colonia": "Loma Linda",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90100": [
+        {
+            "Colonia": "El Mirador",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Ocotl\u00e1n",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Rinconada de Ocotl\u00e1n",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Esteban Tizatl\u00e1n",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "3er Se\u00f1or\u00edo",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Araucarias",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Las Rosas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90102": [
+        {
+            "Colonia": "El Sabinal",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Lucas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Las Rosas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Mirasol",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90105": [
+        {
+            "Colonia": "San Lazaro",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda Ixtulco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Tepetlapa",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90110": [
+        {
+            "Colonia": "Tlayecac",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Diego Metepec",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Lucas Cuauhtelulpan",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda Acuitlapilco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Balc\u00f3n de las \u00c1nimas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Insurgentes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Diego",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Geo Villas San Diego",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Xilotzingo",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Grande",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Alto",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Zapotla",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Los Pirules",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90111": [
+        {
+            "Colonia": "San Sebasti\u00e1n Atlahapa",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90112": [
+        {
+            "Colonia": "San Hipolito Chimalpa",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90114": [
+        {
+            "Colonia": "La Joya",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Amapotla",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Tejocote",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "UAT",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "La Laguna",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Rinc\u00f3n o Los Rosales",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Miraflores",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Tlacomulco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Santa Agueda",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "La Vista",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "La Herradura",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Cortijo",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Fresno",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "El Roc\u00edo",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90115": [
+        {
+            "Colonia": "La Trinidad Tepehitec",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "San Fernando",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Esmeralda",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Lomas de Guadalupe",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "3 Volcanes",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Del Valle",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Puesta del Sol",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90117": [
+        {
+            "Colonia": "San Gabriel Cuauhtla",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Colinas del Sur",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Las Arboledas",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "La Garita de Puebla",
+            "Municipio": "Tlaxcala Tlaxcala"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90118": [
+        {
+            "Colonia": "Tlapancalco",
+            "Municipio": "Tlaxcala Tlaxcala"
+        }
+    ],
+    "90120": [
+        {
+            "Colonia": "Centro",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Santa Cruz El Porvenir",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Esp\u00edritu Santo",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Villa Mariano Matamoros",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Barranco",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Cerro Gordo",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Chapultepec",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "La Escondida",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "El Calvario",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Buenavista",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Las Moras (Las Moradillas)",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90121": [
+        {
+            "Colonia": "La Trinidad Tenexyecac",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Tetlapa",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Analco",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90122": [
+        {
+            "Colonia": "San Diego Xocoyucan",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90123": [
+        {
+            "Colonia": "Santa Justina Ecatepec",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90124": [
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90125": [
+        {
+            "Colonia": "San Antonio Atotonilco",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Fracci\u00f3n la Virgen",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Las Rositas",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Las Torres",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Miguel \u00c1ngel",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Agust\u00edn L\u00f3pez",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "La Virgen",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Crist\u00f3bal",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Tl\u00e1loc",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90126": [
+        {
+            "Colonia": "Santa In\u00e9s Tecuexcomac",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90127": [
+        {
+            "Colonia": "San Antonio Tec\u00f3ac",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Antonio Tizostoc",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90128": [
+        {
+            "Colonia": "San Gabriel Popocatla",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90130": [
+        {
+            "Colonia": "Alpotzonga de Lira y Ortega",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "La Suiza",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Alpotzonga",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Las Huertas",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90131": [
+        {
+            "Colonia": "La Caridad Cuaxonacayo",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90132": [
+        {
+            "Colonia": "Santa Rosa de Lima",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90133": [
+        {
+            "Colonia": "San Juan Nepopualco",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Miguel la Presa",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Ejido Santa Justina Ecatepec",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Escandona",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "San Crist\u00f3bal Oxtotlapango",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Capula",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90134": [
+        {
+            "Colonia": "San Marcos Jilotepec",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        },
+        {
+            "Colonia": "Santiago Xochimilco",
+            "Municipio": "Tlaxcala Ixtacuixtla de Mariano Matamoros"
+        }
+    ],
+    "90135": [
+        {
+            "Colonia": "Santa Ana Nopalucan Centro",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        }
+    ],
+    "90137": [
+        {
+            "Colonia": "De M\u00e9xico",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        }
+    ],
+    "90138": [
+        {
+            "Colonia": "Unidad Deportiva",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        },
+        {
+            "Colonia": "Nuevo M\u00e9xico",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        }
+    ],
+    "90139": [
+        {
+            "Colonia": "De Puebla",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        },
+        {
+            "Colonia": "El Cerrito",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        },
+        {
+            "Colonia": "San Ignacio",
+            "Municipio": "Tlaxcala Santa Ana Nopalucan"
+        }
+    ],
+    "90140": [
+        {
+            "Colonia": "San Mateo Huexoyucan",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s Panotla",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "San Tadeo Huiloapan",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Primero",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Segundo",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Tercero",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Cuarto",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Quinto",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Santa Elena",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Militar",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Zona Militar",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "La Virgen",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90145": [
+        {
+            "Colonia": "Santa Cruz Techachalco",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90147": [
+        {
+            "Colonia": "San Jorge Tezoquipan",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90150": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Las \u00c1nimas",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90151": [
+        {
+            "Colonia": "San Ambrosio Texantla",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90152": [
+        {
+            "Colonia": "Jes\u00fas Acatitla",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90155": [
+        {
+            "Colonia": "Santa Catalina Apatlahco",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "San Francisco Temetzontla",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90156": [
+        {
+            "Colonia": "Tlachco",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Cuapantla",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Tezitla",
+            "Municipio": "Tlaxcala Panotla"
+        },
+        {
+            "Colonia": "Texcacoac",
+            "Municipio": "Tlaxcala Panotla"
+        }
+    ],
+    "90160": [
+        {
+            "Colonia": "Acxotla del R\u00edo",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Los Reyes Quiahuixtl\u00e1n",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "San Juan Totolac",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "San Miguel Tlamahuco",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Villa Riverena",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90163": [
+        {
+            "Colonia": "Santiago Tepeticpac",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Lomas del Sol",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "San Marcos I",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "San Marcos II",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Tepectipac",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "San Marcos Tepeticpac",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90164": [
+        {
+            "Colonia": "Zaragoza",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Ejido Totolac",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Eucaliptos",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90165": [
+        {
+            "Colonia": "San Francisco Ocotelulco",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90166": [
+        {
+            "Colonia": "La Trinidad Chimalpa",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "Chamizal",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90168": [
+        {
+            "Colonia": "La Candelaria Teotlalpan",
+            "Municipio": "Tlaxcala Totolac"
+        },
+        {
+            "Colonia": "El Bosque",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90170": [
+        {
+            "Colonia": "Cerro del Metecatzi",
+            "Municipio": "Tlaxcala Totolac"
+        }
+    ],
+    "90180": [
+        {
+            "Colonia": "San Cosme Atlamaxac",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "Tepeyanco",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "Santiago Tlacochcalco",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "San Pedro Xalcaltzinco",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "Guerrero",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "Las \u00c1guilas",
+            "Municipio": "Tlaxcala Tepeyanco"
+        }
+    ],
+    "90182": [
+        {
+            "Colonia": "La Aurora",
+            "Municipio": "Tlaxcala Tepeyanco"
+        }
+    ],
+    "90183": [
+        {
+            "Colonia": "Antorcha Campesina",
+            "Municipio": "Tlaxcala Tepeyanco"
+        },
+        {
+            "Colonia": "Gerardo Franco",
+            "Municipio": "Tlaxcala Tepeyanco"
+        }
+    ],
+    "90193": [
+        {
+            "Colonia": "Villas de Santa Isabel",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Contla",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Teotitla",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Chimalpa",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Quiahuixtla Norte",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "INFONAVIT 5 de Mayo",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        }
+    ],
+    "90194": [
+        {
+            "Colonia": "Parque Industrial Xiloxoxtla",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Quiahuixtla Sur",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Culhuaca",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Tlaxcala Santa Isabel Xiloxoxtla"
+        }
+    ],
+    "90195": [
+        {
+            "Colonia": "San Juan Huactzinco",
+            "Municipio": "Tlaxcala San Juan Huactzinco"
+        },
+        {
+            "Colonia": "Las Cruces",
+            "Municipio": "Tlaxcala San Juan Huactzinco"
+        }
+    ],
+    "90200": [
+        {
+            "Colonia": "Calpulalpan Centro",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90202": [
+        {
+            "Colonia": "Xahuanxolco",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Rafael",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90203": [
+        {
+            "Colonia": "El Palmar",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Rosa",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Calpulli",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Trabajadores Federados",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Europa",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Argos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90204": [
+        {
+            "Colonia": "Villas del Sur",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Mirador (Las Conchitas)",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Nopalera",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Esmeralda",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90205": [
+        {
+            "Colonia": "La Herradura (El Calvario)",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Arboledas",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Volcanes",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Pocitos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Antonio Calpulalpan",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90207": [
+        {
+            "Colonia": "Santa Cecilia",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Francisco Sarabia",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Salvador Guarneros",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90208": [
+        {
+            "Colonia": "El Refugio",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Alfonso Espejel",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Bel\u00e9n",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Nazaret",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90210": [
+        {
+            "Colonia": "San Mateo Aticpac",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Amantla",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Benigno",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90213": [
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90214": [
+        {
+            "Colonia": "El Caracol",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90218": [
+        {
+            "Colonia": "San Vicente",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Marcelino Cruz",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Las Auras",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Pi\u00f1\u00f3n",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90220": [
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Mazapa",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Santa Teresa",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Palma",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Santa Isabel Mixtitl\u00e1n",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Ocotera",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Jacarandas",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Cacalote",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Monte de San Agust\u00edn",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Hermanos Garc\u00eda",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Loma de San Agust\u00edn",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Pacheco (De la Rosa)",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Analco Dos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "\u00c1ngel Pelcastre",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90222": [
+        {
+            "Colonia": "San Felipe Sultepec",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Tres Hermanos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Quebradora",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Mogotes",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90224": [
+        {
+            "Colonia": "San Marcos Guaquilpan",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Santiago Cuaula",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Crist\u00f3bal Zacacalco",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Santo Domingo Tequixtla",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Venta",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Rosario",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Compadres",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Barranca del Tizar",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Puente del Ocomique",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90225": [
+        {
+            "Colonia": "Coesillos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Bartolom\u00e9 del Monte",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Rodolfo \u00c1vila",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Rodrigo",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Capulines",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Palacios",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Del Venado",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Analco (Jorge L\u00f3pez)",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "La Blanca",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Las Dalias",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90226": [
+        {
+            "Colonia": "Finca Guadalupe Vel\u00e1zquez",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Juan Temazcales",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Zoquiapan",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Gustavo D\u00edaz Ordaz",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "Tlazal\u00e1n",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Padrino",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "El Tri\u00e1ngulo",
+            "Municipio": "Tlaxcala Calpulalpan"
+        },
+        {
+            "Colonia": "San Jos\u00e9 (Los Hornos)",
+            "Municipio": "Tlaxcala Calpulalpan"
+        }
+    ],
+    "90230": [
+        {
+            "Colonia": "Sanct\u00f3rum",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90231": [
+        {
+            "Colonia": "Francisco Villa",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90233": [
+        {
+            "Colonia": "San Nicol\u00e1s el Grande",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Juan Antonio",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "NCP \u00c1lvaro Obreg\u00f3n",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Pachuquilla",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s (Farf\u00e1n)",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90234": [
+        {
+            "Colonia": "Estaci\u00f3n Contadero",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Do\u00f1a Evelia (Los Alpinos)",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Esquibajas",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Julio Rold\u00e1n",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "La Garita",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "La Presa de Pozuelos",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "La Providencia",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Los Alpinos",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "San Leonardo Arroyo",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Sanct\u00f3rum de L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90235": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Tlaxcala Benito Ju\u00e1rez"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Progreso",
+            "Municipio": "Tlaxcala Benito Ju\u00e1rez"
+        }
+    ],
+    "90240": [
+        {
+            "Colonia": "San Ildefonso Hueyotlipan",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Los Hornitos",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90241": [
+        {
+            "Colonia": "San Simeon Xipetzinco",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90243": [
+        {
+            "Colonia": "San Andr\u00e9s Cuaximala",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "El Carmen (Las Carrozas)",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Agua Limpia",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90244": [
+        {
+            "Colonia": "Santa Mar\u00eda Ixcontla",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Santiago Tlalpan",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Las Tortolas",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Potrero Grande",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "San Manuel Tlalpan",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90245": [
+        {
+            "Colonia": "San Diego Recoba",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "El Jard\u00edn",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "El Resumidero",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "La Ardilla",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Los Caifanes (La Pur\u00edsima)",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Playa Azul",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90246": [
+        {
+            "Colonia": "Ignacio Zaragoza",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Emilio S\u00e1nchez Piedras",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Hacienda San Blas Cuaxomulco",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90247": [
+        {
+            "Colonia": "La Cruz Techalote",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "San Lorenzo Techalote",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Hacienda San Fernando",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "NCP San Antonio Techalote",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "El Pilar",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "La Pur\u00edsima",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Santo Tom\u00e1s (El Nopal)",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "San Antonio Techalote",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "San Fernando",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        },
+        {
+            "Colonia": "Santa Luc\u00eda",
+            "Municipio": "Tlaxcala Hueyotlipan"
+        }
+    ],
+    "90250": [
+        {
+            "Colonia": "San Jos\u00e9 Atotonilco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos Buenavista",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tlaxco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tepatlaxco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Ejidal",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Iturbide",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Postal",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las \u00c1nimas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Xomitla",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90251": [
+        {
+            "Colonia": "San Antonio Huexotitla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Guadalupe Huexotitla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Xochuca",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Nacimiento",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Candelaria",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "NCPE la Herradura",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90253": [
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90255": [
+        {
+            "Colonia": "Acopinalco del Pe\u00f1\u00f3n",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Grande",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Chico",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Sabinal",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santiago Tlatepoxco",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90256": [
+        {
+            "Colonia": "El Rosario",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90257": [
+        {
+            "Colonia": "San Pedro la Cueva",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Pedregosa",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Tintero",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Lim\u00f3n",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Mirador",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Paraje",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Clemente Mu\u00f1oz",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Sotol",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Juan Arroyo (San Isidro)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tabl\u00f3n de Guadalupe Payuca",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Jos\u00e9 el Escombro",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Catorce",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Diego Mu\u00f1oz Camargo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Piedra Blanca",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Herradura",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Serranos",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90258": [
+        {
+            "Colonia": "R\u00edo Blanco (El Doce)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Cieneguilla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Al final de la Senda",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Juan Antonio Burle Lomel\u00ed",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Troje",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Paz",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Llanos de Teopa (Valle Escondido)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Kil\u00f3metro 31",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90259": [
+        {
+            "Colonia": "Nuevo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Corralillos",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Panchos",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90260": [
+        {
+            "Colonia": "La Magdalena Soltepec",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Lagunilla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Soltepec",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90261": [
+        {
+            "Colonia": "Ex-Hacienda San Miguel Mimiahuapan",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las Vigas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Profesor Graciano S\u00e1nchez",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Desierto",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Cineg\u00e9tico Cruz Verde",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90262": [
+        {
+            "Colonia": "Mariano Matamoros",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Mazaqui\u00e1huac",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90263": [
+        {
+            "Colonia": "Casa Blanca",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90264": [
+        {
+            "Colonia": "Uni\u00f3n Ejidal Tierra y Libertad",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Maguey Cenizo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Ranchitos (La Nopalera)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Trasquila",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90265": [
+        {
+            "Colonia": "San Lorenzo Soltepec",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Perpetuo Socorro",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Agust\u00edn",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Pato",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Sant\u00edsimo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Ex-hacienda San Buenaventura",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa In\u00e9s",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90266": [
+        {
+            "Colonia": "La Providencia",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Francisco Quintanilla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Alta Luz",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Diego Quintanilla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Fresno",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90267": [
+        {
+            "Colonia": "Las Maravillas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Mesa del Cielo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Tepeyahualco",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90270": [
+        {
+            "Colonia": "Tecomalucan",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90271": [
+        {
+            "Colonia": "M\u00e1ximo Rojas Xal\u00f3stoc",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Vega",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90273": [
+        {
+            "Colonia": "El Convento",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Para\u00edso",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Conzoquio",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Ex-hacienda San Pedro Metla",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Rosa de Lima",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Chupadero",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90274": [
+        {
+            "Colonia": "La Palma",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las Arandelas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Mirador",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Lobera",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Rosa",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Capulines",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Loma de Enmedio",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tetzitzilica",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Charcos",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Ci\u00e9nega",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Calvario",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90275": [
+        {
+            "Colonia": "Capilla de Tepeyahualco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Rancho Ojo de Agua",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las Mesas",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90276": [
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Potrero Mazayolo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Llano",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Loma del Cortijo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Metla (Los Pinos)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Toltecapa",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tlaquexpa",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Pera",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90277": [
+        {
+            "Colonia": "Ciudad Industrial Xicoht\u00e9ncatl III",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Comisi\u00f3n Federal de Electricidad-La Martinica",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Tronconera",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Grullo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Volador",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Fe",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Pablo el Mirador",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Tierra Nueva",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Jard\u00edn",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Tecorral",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Las T\u00f3rtolas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Baltazar",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "El Mirador (Teresa Rivera)",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "La Loma del Jard\u00edn",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90278": [
+        {
+            "Colonia": "Titichilco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Antonio Chapultepec",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Dos Barrancas",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Mart\u00edn",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Agua Escondida",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Polos",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Agua Escondida Zotoluca",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Seco el Viejo",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Los Laureles",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda Zotoluca",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Atotonilco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Seco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Santa Cruz Rancho Seco",
+            "Municipio": "Tlaxcala Tlaxco"
+        },
+        {
+            "Colonia": "Campo David",
+            "Municipio": "Tlaxcala Tlaxco"
+        }
+    ],
+    "90280": [
+        {
+            "Colonia": "Ni\u00f1os H\u00e9roes de Chapultepec",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Domingo Arenas",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Chapultepec",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Francisco Villa",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Obreg\u00f3n",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "INFONAVIT Mineros",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Loreto",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "La Villa",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90283": [
+        {
+            "Colonia": "Amaxac",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "La Candelaria",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Los Delgadillo",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Santos Lozano",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Jos\u00e9 Eduardo Hern\u00e1ndez Fern\u00e1ndez",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90284": [
+        {
+            "Colonia": "Ixtafiayuca",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Domingo Arenas (La Calera)",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Francisco I. Madero",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Entronque Nanacamilpa",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90285": [
+        {
+            "Colonia": "Mifive",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Los Rosales",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "La Uni\u00f3n",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Media Caballer\u00eda",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90286": [
+        {
+            "Colonia": "Constantino Zavala",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Manuel Estrada",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Tepuente",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90287": [
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Agua Escondida",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90288": [
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "Miguel Lira y Ortega",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        },
+        {
+            "Colonia": "San Felipe Hidalgo",
+            "Municipio": "Tlaxcala Nanacamilpa de Mariano Arista"
+        }
+    ],
+    "90290": [
+        {
+            "Colonia": "Espa\u00f1ita",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90291": [
+        {
+            "Colonia": "San Juan Mitepec",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90292": [
+        {
+            "Colonia": "San Francisco Mitepec",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Miguel Pipiyola",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Pablo",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90293": [
+        {
+            "Colonia": "\u00c1lvaro Obreg\u00f3n",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Agust\u00edn",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "La Joya",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Francisco I. Madero el Viejo",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "La Concepci\u00f3n",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Pablo Garc\u00eda S\u00e1nchez (Rancho Tecuicuilco)",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Rancho Nuevo",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Lindavista",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90294": [
+        {
+            "Colonia": "Miguel Aldama",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Las Pilas",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Guill\u00e9n",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90295": [
+        {
+            "Colonia": "La Magdalena Cuextotitla",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Barrio de Torres",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90297": [
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Lagunitas",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Ocotal (Roque S\u00e1nchez)",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Agua Santa (Las Tinas)",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Calicanto",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90298": [
+        {
+            "Colonia": "La Constancia",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "La Reforma",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "La Valentina",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Los Capulines",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Miguel el Pi\u00f1\u00f3n",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Relicario",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "Asilo de Anciano San Judas Tadeo",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Bellavista",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Miguel Tepalca",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Espa\u00f1ita"
+        }
+    ],
+    "90300": [
+        {
+            "Colonia": "Centro",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90319": [
+        {
+            "Colonia": "Rodan",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90320": [
+        {
+            "Colonia": "Granjas de Guadalupe",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90323": [
+        {
+            "Colonia": "Cerrito de Guadalupe",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90329": [
+        {
+            "Colonia": "Fuentes de Actipan",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Hogares Ferrocarrileros",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Hogares Ferrocarrileros 3",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90330": [
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90337": [
+        {
+            "Colonia": "San Martin de Porres",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90338": [
+        {
+            "Colonia": "Bellavista",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Diego Crom",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90339": [
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90340": [
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90341": [
+        {
+            "Colonia": "20 de Noviembre",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90342": [
+        {
+            "Colonia": "Ferrocarrilera",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Emilio S\u00e1nchez Piedras",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90347": [
+        {
+            "Colonia": "La Ci\u00e9nega",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90350": [
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "INFONAVIT CTM",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "INFONAVIT San Rafael Atlixtac",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90355": [
+        {
+            "Colonia": "Villa Santa Clara",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Villas del Monte",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Villas de Apizaco",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Villa Santa Anita",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Loma Para\u00edso",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "FOVISSSTE Loma Verde",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "INFONAVIT Loma Verde",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Real del Bosque",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Real del Valle",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Paso de Cortes I",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Paso de Cortes II",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Perla",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Perla II",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Apatlahuaya",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Diego",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90356": [
+        {
+            "Colonia": "Loma Florida 1a Secc",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Loma Florida 2a Secc",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Los Sauces",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Nuevo M\u00e9xico",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90357": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Lindavista",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90358": [
+        {
+            "Colonia": "Jes\u00fas y San Juan",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90360": [
+        {
+            "Colonia": "Bryc",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Los Morales II",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90370": [
+        {
+            "Colonia": "INDECO San Rafael Atlixtac",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Zaragoza",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Campestre los Sabinos",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90378": [
+        {
+            "Colonia": "Loma Santa Anita",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90380": [
+        {
+            "Colonia": "Agr\u00edcola Covadonga",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Jardines de Apizaco",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "El Llano",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90401": [
+        {
+            "Colonia": "Benito Ju\u00e1rez Apizaquito",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "El Calvario",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Luis Apizaquito",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Luis Apizaquito",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Tulio Hernandez",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Coporo y Cerro Azul I y II",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Luis",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Paz",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "El Farallon",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Residencial Las Flores",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "La Colina",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Lomas de Apizaquito",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90402": [
+        {
+            "Colonia": "Santa Maria Texcalac",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "10 de Mayo",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Francisco I. Madero",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "El Cerrito",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "2a. Secci\u00f3n",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90403": [
+        {
+            "Colonia": "Guadalupe Texcalac",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90404": [
+        {
+            "Colonia": "CERESO Apizaco",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90405": [
+        {
+            "Colonia": "Cuarta Manzana",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Actipan",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Atenco",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Jardines de San Francisco",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90406": [
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Lomas del Bosque",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Lomas del Bosque II",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Jardines de San Isidro",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90407": [
+        {
+            "Colonia": "Santa Anita Huiloac",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "San Marcos",
+            "Municipio": "Tlaxcala Apizaco"
+        },
+        {
+            "Colonia": "Atlayoalco",
+            "Municipio": "Tlaxcala Apizaco"
+        }
+    ],
+    "90410": [
+        {
+            "Colonia": "Atlangatepec",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90411": [
+        {
+            "Colonia": "Agr\u00edcola San Luis",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Santa Clara Ozumba",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Sim\u00f3n",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Cerro de las Flores",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Catorce",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Loma (El Cerrito)",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Palma",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Providencia",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90413": [
+        {
+            "Colonia": "Zumpango",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Flor",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Felipe",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Para\u00edso",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Atlanga",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Cuchilla (El Alcanfor)",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90414": [
+        {
+            "Colonia": "Las Barrancas",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Las Tinajas",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Los Capulines",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Los Encinos",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Santiago Villalta",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Hu\u00e9rfano",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Ocote",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Joya",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Las Tinajas (La Tepozanera)",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Ocote",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Encino",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90415": [
+        {
+            "Colonia": "San Pedro Ecatepec",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Jeric\u00f3",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Herradura",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Tenopala",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Xalnene",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Sabino Grande (El Carmen)",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Los Patos",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Antonio Zacapexco",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Jos\u00e9 de Santa Rosa Zacapexco",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Marcos",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Santa Elena",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda Tepetzala",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Tepezilapan",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Unidad Habitacional I",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Villa de las Flores",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Xuxtepec",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Alem\u00e1n",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Ocotal",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "El Recuerdo",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "San Antonio Tepetzala",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90416": [
+        {
+            "Colonia": "Segunda Fracci\u00f3n de Olivares",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Tercera Fracci\u00f3n de Olivares",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Centro Vacacional Villa Quinta Olivares",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Cuarta Fracci\u00f3n de Olivares",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Trasquila",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Fracci\u00f3n San Pedro Ecatepec",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Trasquila",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "La Troje",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90418": [
+        {
+            "Colonia": "Benito Ju\u00e1rez (Tezoyo)",
+            "Municipio": "Tlaxcala Atlangatepec"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Atlangatepec"
+        }
+    ],
+    "90420": [
+        {
+            "Colonia": "Mu\u00f1oz",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90421": [
+        {
+            "Colonia": "Guadalupe Estaci\u00f3n",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Cuamantzingo",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90423": [
+        {
+            "Colonia": "La Bodega",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "Los Maizales",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "Los Rodr\u00edguez",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "Los \u00c1lamos",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90425": [
+        {
+            "Colonia": "San Isidro Chipila",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "De Zacatepec",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90426": [
+        {
+            "Colonia": "Mu\u00f1oz",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90427": [
+        {
+            "Colonia": "Guadalupe Cuauht\u00e9moc",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        },
+        {
+            "Colonia": "Ex-hacienda de Guadalupe",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90428": [
+        {
+            "Colonia": "San Bartolo Cuamantzingo",
+            "Municipio": "Tlaxcala Mu\u00f1oz de Domingo Arenas"
+        }
+    ],
+    "90430": [
+        {
+            "Colonia": "2da San Bartolom\u00e9 Matlalohcan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Antorcha Revolucionaria INFONAVIT Tetla",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "1ra San Bartolom\u00e9 Matlalohcan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Teotlalpan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Los Robles",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Jardines de San Bartolo",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Metenco",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "4ta San Bartolom\u00e9 Matlalohcan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "3ra San Bartolom\u00e9 Matlalohcan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Actipac",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Cuatepec",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Villa Celeste",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "El Pedregal",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Villa de las Flores",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Vista de Sol",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Am\u00e9rica del Sur",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Las Arboledas",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Los Sabinales",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Paseos de Tetla",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Alberto Ju\u00e1rez Blancas",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Villas de Tetla",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Ocotitla",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90432": [
+        {
+            "Colonia": "1ra Manzana San Francisco Atezcatzinco",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Paseos de Xolalpa",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Francisco Atexcatzingo 3ra Manz",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "4ta Manzana San Francisco Atexcatzinco",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Francisco Atexcatzinco 2da Manzana",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90433": [
+        {
+            "Colonia": "Chautzingo",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Los Dolores",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90434": [
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos y Pav\u00f3n",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Ciudad Industrial Xicoht\u00e9ncatl",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90435": [
+        {
+            "Colonia": "Capulac",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Gregorio",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "La Divina Providencia",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Campo David",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Felipe Guti\u00e9rrez",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Santa Fe la Troje",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Guillermo Mac\u00edas",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "El Pozo",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "El Prado",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Fracci\u00f3n el Derramadero",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90436": [
+        {
+            "Colonia": "NCPE San Francisco Tepeyanco",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Juan Lima Olivares",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "El Ocote",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Ricardo Flores Mag\u00f3n",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90437": [
+        {
+            "Colonia": "Las Caba\u00f1as",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Piedras Negras",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Isidro Piedras Negras",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "La Caridad",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "De G\u00f3mez",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Las Arenas",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90438": [
+        {
+            "Colonia": "Santa Rosa Mena",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Anastacio Lemus",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "De Apizaquito",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "La Loma",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Alejandro L\u00f3pez \u00c1vila (Los Temontones)",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Santa Margarita",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "Plan de Ayala",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "El Coraz\u00f3n",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        },
+        {
+            "Colonia": "La Concepci\u00f3n",
+            "Municipio": "Tlaxcala Tetla de la Solidaridad"
+        }
+    ],
+    "90440": [
+        {
+            "Colonia": "San Martin Xaltocan",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "San Sim\u00f3n Tlatlahuquitepec",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Cuatla",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Topilco de Ju\u00e1rez",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Puerto Arturo",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Jardines de Xaltocan",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Tlalapechco",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Loma Dorada",
+            "Municipio": "Tlaxcala Xaltocan"
+        }
+    ],
+    "90443": [
+        {
+            "Colonia": "Santa B\u00e1rbara Acuicuizcatepec",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Ca\u00f1ada de Chipila",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Alva",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Nueva Ampliaci\u00f3n Adolfo Ruiz Cort\u00ednez",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Nueva Ampliaci\u00f3n Camino a Xaltocan",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Texopa",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Las Mesas",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "La Retama",
+            "Municipio": "Tlaxcala Xaltocan"
+        }
+    ],
+    "90444": [
+        {
+            "Colonia": "La Ascensi\u00f3n Huitzcolotepec",
+            "Municipio": "Tlaxcala Xaltocan"
+        },
+        {
+            "Colonia": "Atzacoalco",
+            "Municipio": "Tlaxcala Xaltocan"
+        }
+    ],
+    "90445": [
+        {
+            "Colonia": "San Lucas Tecopilco",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        }
+    ],
+    "90446": [
+        {
+            "Colonia": "Las Ca\u00f1adas",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        },
+        {
+            "Colonia": "Toltecapa",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        }
+    ],
+    "90447": [
+        {
+            "Colonia": "El Llano",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        }
+    ],
+    "90448": [
+        {
+            "Colonia": "San Jos\u00e9 Rosastitla",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        },
+        {
+            "Colonia": "Cauatla",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        },
+        {
+            "Colonia": "Tlaxcantitla",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        },
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala San Lucas Tecopilco"
+        }
+    ],
+    "90450": [
+        {
+            "Colonia": "La Noria",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "San Dionisio Yauhquemehcan",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "San Francisco Tlacuilohcan",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "San Lorenzo Tlacualoyan",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Santa \u00darsula Zimatepec",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Noria II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Viky",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Corona",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Cruztitla",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Malintzi I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Padrino II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Padrino I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Cima de Piedra II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Sauces IV",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Sauces I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Palma",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Huerta",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Aurora",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Xalcuentla",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Huerta I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Jardines de Santa \u00darsula",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Sauces II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Sauces III",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Padrino III",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Sauces V",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Villa Hermosa",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Pedregal",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Ahuaxtla",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Cima de Piedra I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Las Rosas 2000",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90453": [
+        {
+            "Colonia": "San Benito Xaltocan",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Doctores",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Villa Alta",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Libertad",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Joya",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Las Torres",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90454": [
+        {
+            "Colonia": "Arenal",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Tetel",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Axotecatl",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Coyotla",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Pent\u00e1gono",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Para\u00edso",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Mirador II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Emilio S\u00e1nchez Piedras",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "El Palmar",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Vista los Volcanes II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Vista los Volcanes I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Villas la Monumental",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Modulo el Mirador",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Acuario",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Uni\u00f3n",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Los Patios",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Arcos Tetel I",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Arboledas",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Arcos Tetel II",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90455": [
+        {
+            "Colonia": "Calapa",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Jazm\u00edn",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Atencingo",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90456": [
+        {
+            "Colonia": "El Rosario Ocotoxco",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90457": [
+        {
+            "Colonia": "Magdalena Tepepa",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Luz",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Villa Arboledas",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90458": [
+        {
+            "Colonia": "Seraf\u00edn S\u00e1nchez Garc\u00eda",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "La Soledad (El Charco)",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90459": [
+        {
+            "Colonia": "Santa Mar\u00eda Atlihuetzian",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Lomas de la Misi\u00f3n",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Chimalpa",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Cuarta Secci\u00f3n",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "Hualcaltzinco",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Tepoxtla",
+            "Municipio": "Tlaxcala Yauhquemehcan"
+        }
+    ],
+    "90460": [
+        {
+            "Colonia": "Conjunto habitacional Pronavi San Cosme",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "San Cosme Xaloztoc",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "San Pedro Tlacotepec",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Guadalupe Texmolac",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Venustiano Carranza",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Tetitla",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Santa Martha",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "La Sierra",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Santa Cruz Zacatzontetla",
+            "Municipio": "Tlaxcala Xaloztoc"
+        }
+    ],
+    "90463": [
+        {
+            "Colonia": "Jos\u00e9 L\u00f3pez Portillo",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "El Jag\u00fcey Prieto",
+            "Municipio": "Tlaxcala Xaloztoc"
+        }
+    ],
+    "90465": [
+        {
+            "Colonia": "Velazco",
+            "Municipio": "Tlaxcala Xaloztoc"
+        },
+        {
+            "Colonia": "Florencia S\u00e1nchez Nava",
+            "Municipio": "Tlaxcala Xaloztoc"
+        }
+    ],
+    "90470": [
+        {
+            "Colonia": "Los Corrales",
+            "Municipio": "Tlaxcala Xaloztoc"
+        }
+    ],
+    "90480": [
+        {
+            "Colonia": "Santa Mar\u00eda Tocatl\u00e1n",
+            "Municipio": "Tlaxcala Tocatl\u00e1n"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Tlaxcala Tocatl\u00e1n"
+        }
+    ],
+    "90482": [
+        {
+            "Colonia": "Venustiano Carranza",
+            "Municipio": "Tlaxcala Tocatl\u00e1n"
+        }
+    ],
+    "90484": [
+        {
+            "Colonia": "Acocotla",
+            "Municipio": "Tlaxcala Tocatl\u00e1n"
+        }
+    ],
+    "90490": [
+        {
+            "Colonia": "El Divino Salvador",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "San Salvador Tzompantepec",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Jean Charlot II",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "San Pablo",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Los Girasoles",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Zauhtla",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Meyalco",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "La Estrella",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Loma Dorada",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "19 de Noviembre",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Do\u00f1a Mar\u00eda",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "San Andr\u00e9s",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Jean Charlot I",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Jean Charlot III",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Tepozotenco",
+            "Municipio": "Tlaxcala Tzompantepec"
+        }
+    ],
+    "90491": [
+        {
+            "Colonia": "San Andr\u00e9s Ahuashuatepec",
+            "Municipio": "Tlaxcala Tzompantepec"
+        }
+    ],
+    "90493": [
+        {
+            "Colonia": "San Juan Quetzalcoapan",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Cuayecatl",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Mazapa (Rancho los Juanes)",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "El Llano",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Cruztitla (Coyoeca)",
+            "Municipio": "Tlaxcala Tzompantepec"
+        }
+    ],
+    "90494": [
+        {
+            "Colonia": "San Mateo Inophil",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "La Providencia las Huertas",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Amoltepec",
+            "Municipio": "Tlaxcala Tzompantepec"
+        },
+        {
+            "Colonia": "Xaltianquisco",
+            "Municipio": "Tlaxcala Tzompantepec"
+        }
+    ],
+    "90495": [
+        {
+            "Colonia": "1ra. Secci\u00f3n San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "4ta. Secci\u00f3n San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        }
+    ],
+    "90496": [
+        {
+            "Colonia": "5ta. Secci\u00f3n San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "3ra. Secci\u00f3n San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        }
+    ],
+    "90497": [
+        {
+            "Colonia": "2da. Secci\u00f3n San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        }
+    ],
+    "90498": [
+        {
+            "Colonia": "Ex-rancho San Nicol\u00e1s Cuatlapanga",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "El Encinal Dos de Mayo",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "San Pedro M\u00e1rtir",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "San Luis",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        },
+        {
+            "Colonia": "Ecol\u00f3gica",
+            "Municipio": "Tlaxcala San Jos\u00e9 Teacalco"
+        }
+    ],
+    "90500": [
+        {
+            "Colonia": "Huamantla Centro",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90502": [
+        {
+            "Colonia": "El Calvario",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Sant\u00edsima",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "El Encanto",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Del Dulce Nombre",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "De Jes\u00fas",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90503": [
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Santa Ana",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Cuamanco",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Villa de las Flores",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "El Cornejal",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90505": [
+        {
+            "Colonia": "La Preciosa",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Francisco Yancuitlalpan",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Santa Maria Yancuitlalpan",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Jardines de San Manuel",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90506": [
+        {
+            "Colonia": "Ignacio Zaragoza",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Nuevos Horizontes",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Estaci\u00f3n",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Viva",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Tierra y Libertad",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90507": [
+        {
+            "Colonia": "San Lucas",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Uni\u00f3n y Progreso",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Francisquito",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90508": [
+        {
+            "Colonia": "La Palma",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "INFONAVIT 15 de Agosto",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Sebasti\u00e1n",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Santa Anita",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Giralda",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Ju\u00e1rez",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Los Volcanes II",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Los Volcanes",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Esmeralda",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Arboledas",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "El Jag\u00fcey",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90509": [
+        {
+            "Colonia": "Ciudad Industrial Xicoht\u00e9ncatl",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90510": [
+        {
+            "Colonia": "Los Pilares",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Ignacio Zaragoza",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90513": [
+        {
+            "Colonia": "Hermenegildo Galeana",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "El Carmen Xalpatlahuaya",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "N.C.P. San Diego Xalpatlahuaya",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90514": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Francisco I. Madero la Mesa",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Francisco I. Madero Tecoac",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Francisco Villa Tecoac",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "El Molino",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "De Torres",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "La Lima",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90515": [
+        {
+            "Colonia": "El Valle",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Xicohtencatl",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Los Alamos",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Felipe Carrillo Puerto",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "NCP Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90520": [
+        {
+            "Colonia": "San Francisco Tecoac",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Francisco Notario",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90525": [
+        {
+            "Colonia": "Chapultepec",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Lic. Mauro Angulo",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "N.C.P. San Jos\u00e9 Teacalco",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90526": [
+        {
+            "Colonia": "General Francisco Villa",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Mart\u00edn Notario",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Acasillados San Martin Notario",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Agr\u00edcola San Mart\u00edn Notario",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90527": [
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90530": [
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "De Jes\u00fas",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "San Miguel Baez",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "De la Cruz",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90534": [
+        {
+            "Colonia": "Mariano Matamoros",
+            "Municipio": "Tlaxcala Huamantla"
+        },
+        {
+            "Colonia": "Altamira Guadalupe",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90535": [
+        {
+            "Colonia": "La Cruz",
+            "Municipio": "Tlaxcala Huamantla"
+        }
+    ],
+    "90540": [
+        {
+            "Colonia": "Terrenate",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "Chipilo",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "Chapultepec",
+            "Municipio": "Tlaxcala Terrenate"
+        }
+    ],
+    "90542": [
+        {
+            "Colonia": "La Caldera",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Villarreal",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "El Pilanc\u00f3n",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Tlaxcala Terrenate"
+        }
+    ],
+    "90543": [
+        {
+            "Colonia": "Nicol\u00e1s Bravo",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "Los Ameles (Acolco)",
+            "Municipio": "Tlaxcala Terrenate"
+        },
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Tlaxcala Terrenate"
+        }
+    ],
+    "90544": [
+        {
+            "Colonia": "Toluca de Guadalupe",
+            "Municipio": "Tlaxcala Terrenate"
+        }
+    ],
+    "90545": [
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90546": [
+        {
+            "Colonia": "La Mancera",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "El Palomar",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "San Jos\u00e9 de la Laguna",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Maribel",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        },
+        {
+            "Colonia": "Atlixtaca",
+            "Municipio": "Tlaxcala L\u00e1zaro C\u00e1rdenas"
+        }
+    ],
+    "90547": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        }
+    ],
+    "90548": [
+        {
+            "Colonia": "Ahilitla",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Guardamonte",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "La Venta",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Cruz Verde",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Tlaximaloya (La Amapola)",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Ojo de Agua",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Gustavo D\u00edaz Ordaz",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "La Loma",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Tecoaquillo",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "El Cipr\u00e9s",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Tres R\u00edos",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "El Epazote",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Coamila",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Atotonilco",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Los Encinos",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        },
+        {
+            "Colonia": "Tipitzila",
+            "Municipio": "Tlaxcala Emiliano Zapata"
+        }
+    ],
+    "90550": [
+        {
+            "Colonia": "De la Concepci\u00f3n",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Santiago",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90553": [
+        {
+            "Colonia": "La Garita",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90554": [
+        {
+            "Colonia": "Xaltitla",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Buenavista",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Pilanc\u00f3n",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Francisco Axopilco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Miravalle",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Carreta",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Jos\u00e9 Fern\u00e1ndez",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Aurelio Aguilar",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Techachalco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Xarero Xaltitla",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Antonio Tecopilco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90555": [
+        {
+            "Colonia": "Concepci\u00f3n Hidalgo",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Felipe Carrillo Puerto",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "La Rincona",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "La Soledad Loma de Ocotla",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Blanco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Jes\u00fas",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Mazehualpa",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Ocotla",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90556": [
+        {
+            "Colonia": "Mesa Redonda",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Juan Ocotitla",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90557": [
+        {
+            "Colonia": "Nexnopala",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "La Higuera",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Nazareth",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Miguel Franco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Santa Martha",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Xalasco",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Delicias",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90558": [
+        {
+            "Colonia": "Santa Cruz Pocitos",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda las Cuevas",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "El Pi\u00f1onal (Guadalupe el Pi\u00f1onal)",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Los Ocalitos",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Miahuapan el Alto",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Miahuapan el Bajo",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Pocitos",
+            "Municipio": "Tlaxcala Atltzayanca"
+        },
+        {
+            "Colonia": "Loma de Junguito",
+            "Municipio": "Tlaxcala Atltzayanca"
+        }
+    ],
+    "90560": [
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Los \u00c1ngeles",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Alta Luz",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "De Guadalupe",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90562": [
+        {
+            "Colonia": "San Francisco Cuexcontzi",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "San Francisco Cuexcomatepec",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90563": [
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "San Crist\u00f3bal del R\u00edo",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Egipto",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90564": [
+        {
+            "Colonia": "Granja de Guadalupe",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "El Tejocote",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Mazarraza",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Del Valle",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Santa Rebeca",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Plan de Ayala",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90565": [
+        {
+            "Colonia": "Loma Bonita",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Santa Fe Uno",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Manuel \u00c1vila Camacho",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Santa Beatriz la Nueva",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90567": [
+        {
+            "Colonia": "La Asunci\u00f3n Rascona",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90568": [
+        {
+            "Colonia": "Ignacio Allende",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "Allende",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "San Rafael Tepatlaxco (Uni\u00f3n y Progreso)",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "San Miguel Teometitla",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        },
+        {
+            "Colonia": "La Granja (Camino a Franco)",
+            "Municipio": "Tlaxcala Cuapiaxtla"
+        }
+    ],
+    "90570": [
+        {
+            "Colonia": "Villa del Carmen Tequexquitla",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90573": [
+        {
+            "Colonia": "Mazatepec",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90574": [
+        {
+            "Colonia": "De Guadalupe",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90575": [
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90576": [
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90577": [
+        {
+            "Colonia": "Ocotl\u00e1n Temalacayucan",
+            "Municipio": "Tlaxcala El Carmen Tequexquitla"
+        }
+    ],
+    "90580": [
+        {
+            "Colonia": "San Juan Secci\u00f3n Uno",
+            "Municipio": "Tlaxcala Ixtenco"
+        },
+        {
+            "Colonia": "San Juan Secci\u00f3n Dos",
+            "Municipio": "Tlaxcala Ixtenco"
+        }
+    ],
+    "90583": [
+        {
+            "Colonia": "Santiago",
+            "Municipio": "Tlaxcala Ixtenco"
+        },
+        {
+            "Colonia": "Resurrecci\u00f3n Secci\u00f3n Dos",
+            "Municipio": "Tlaxcala Ixtenco"
+        },
+        {
+            "Colonia": "San Gabriel Secci\u00f3n Dos",
+            "Municipio": "Tlaxcala Ixtenco"
+        }
+    ],
+    "90584": [
+        {
+            "Colonia": "San Gabriel Secci\u00f3n Uno",
+            "Municipio": "Tlaxcala Ixtenco"
+        },
+        {
+            "Colonia": "Resurrecci\u00f3n Secci\u00f3n Uno",
+            "Municipio": "Tlaxcala Ixtenco"
+        }
+    ],
+    "90585": [
+        {
+            "Colonia": "San Antonio Secci\u00f3n Uno",
+            "Municipio": "Tlaxcala Ixtenco"
+        },
+        {
+            "Colonia": "San Antonio Secci\u00f3n Dos",
+            "Municipio": "Tlaxcala Ixtenco"
+        }
+    ],
+    "90586": [
+        {
+            "Colonia": "La Era",
+            "Municipio": "Tlaxcala Ixtenco"
+        }
+    ],
+    "90590": [
+        {
+            "Colonia": "Zitlalt\u00e9pec",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        }
+    ],
+    "90592": [
+        {
+            "Colonia": "San Juan Bautista Mier",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        }
+    ],
+    "90594": [
+        {
+            "Colonia": "El Lindero",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        }
+    ],
+    "90595": [
+        {
+            "Colonia": "Guadalupe los Capulines",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        }
+    ],
+    "90596": [
+        {
+            "Colonia": "Francisco Javier Mina",
+            "Municipio": "Tlaxcala Ziltlalt\u00e9pec de Trinidad S\u00e1nchez Santos"
+        }
+    ],
+    "90600": [
+        {
+            "Colonia": "Providencia",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        },
+        {
+            "Colonia": "Apetatitl\u00e1n",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        },
+        {
+            "Colonia": "Petroqu\u00edmica",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        },
+        {
+            "Colonia": "Tlahuicole IMSS",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        }
+    ],
+    "90605": [
+        {
+            "Colonia": "Bel\u00e9n Atzitzimititl\u00e1n",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        }
+    ],
+    "90606": [
+        {
+            "Colonia": "La Loma",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        },
+        {
+            "Colonia": "San Mat\u00edas Tepetomatitl\u00e1n",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        }
+    ],
+    "90608": [
+        {
+            "Colonia": "Tecolotla",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        }
+    ],
+    "90610": [
+        {
+            "Colonia": "Tlatempan",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        },
+        {
+            "Colonia": "Jes\u00fas",
+            "Municipio": "Tlaxcala Apetatitl\u00e1n de Antonio Carvajal"
+        }
+    ],
+    "90620": [
+        {
+            "Colonia": "Amaxac de Guerrero",
+            "Municipio": "Tlaxcala Amaxac de Guerrero"
+        }
+    ],
+    "90623": [
+        {
+            "Colonia": "Tercera Secci\u00f3n",
+            "Municipio": "Tlaxcala Amaxac de Guerrero"
+        }
+    ],
+    "90624": [
+        {
+            "Colonia": "Primera Secci\u00f3n",
+            "Municipio": "Tlaxcala Amaxac de Guerrero"
+        }
+    ],
+    "90630": [
+        {
+            "Colonia": "La Preciosa",
+            "Municipio": "Tlaxcala Amaxac de Guerrero"
+        }
+    ],
+    "90635": [
+        {
+            "Colonia": "San Dami\u00e1n Tlacocalpan",
+            "Municipio": "Tlaxcala Amaxac de Guerrero"
+        }
+    ],
+    "90640": [
+        {
+            "Colonia": "Guadalupe Tlachco",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "San Lucas Tlacochcalco",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "San Miguel Contla",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Santa Cruz Tlaxcala",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Ex-Hacienda San Manuel",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Llano Viejo",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "El Arc\u00e1ngel",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Villas de San Miguel II",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90643": [
+        {
+            "Colonia": "Tepetlacinco",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90644": [
+        {
+            "Colonia": "El Progreso",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Tetzotzocola",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "El Alto",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Analco",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        },
+        {
+            "Colonia": "Ixaquixtla",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90645": [
+        {
+            "Colonia": "Centro Vacacional la Trinidad",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90646": [
+        {
+            "Colonia": "Potrero Viejo",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90650": [
+        {
+            "Colonia": "Jes\u00fas Huitzn\u00e1huac",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90653": [
+        {
+            "Colonia": "Xamistla",
+            "Municipio": "Tlaxcala Santa Cruz Tlaxcala"
+        }
+    ],
+    "90660": [
+        {
+            "Colonia": "San Miguel Buenavista",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "San Lorenzo Xaltelulco",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Tepechapa",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Zacamolpa",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Primera Secci\u00f3n Atenco",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Segunda Secci\u00f3n Tecuicuilco",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Centro",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Coxtla",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        },
+        {
+            "Colonia": "Tecola",
+            "Municipio": "Tlaxcala Cuaxomulco"
+        }
+    ],
+    "90670": [
+        {
+            "Colonia": "San Bernardino Contla Centro",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Zencalco",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Villa Chica",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Xopantla",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "La Conchita",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90676": [
+        {
+            "Colonia": "Santa Mar\u00eda Tlacatecpa",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Colhuaca",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Netzahuala",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90680": [
+        {
+            "Colonia": "San Miguel Xaltipa",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90690": [
+        {
+            "Colonia": "San Felipe Cuauhtenco",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90692": [
+        {
+            "Colonia": "San Jos\u00e9 Aztatla",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Ocotl\u00e1n de Tepatlaxco",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "La Luz",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90693": [
+        {
+            "Colonia": "Santa Mar\u00eda Aqui\u00e1huac",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        },
+        {
+            "Colonia": "Ixtlahuaca",
+            "Municipio": "Tlaxcala Contla de Juan Cuamatzi"
+        }
+    ],
+    "90700": [
+        {
+            "Colonia": "San Mateo Ayecac",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        },
+        {
+            "Colonia": "Tepetitla",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        },
+        {
+            "Colonia": "Villa Alta",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        },
+        {
+            "Colonia": "Residencial las Palomas",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        },
+        {
+            "Colonia": "Atalaya",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        },
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Tlaxcala Tepetitla de Lardiz\u00e1bal"
+        }
+    ],
+    "90710": [
+        {
+            "Colonia": "La Concordia",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Nativitas",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90712": [
+        {
+            "Colonia": "San Bernab\u00e9 Capula",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Miguel del Milagro",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Miguel Xochitecatitla",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90713": [
+        {
+            "Colonia": "Jes\u00fas Tepactepec",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90715": [
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90716": [
+        {
+            "Colonia": "San Vicente Xiloxochitla",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Francisco Tenexyecac",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90717": [
+        {
+            "Colonia": "San Jos\u00e9 Atoyatenco",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Colectur\u00eda",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Matamoros",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "El Rosario",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90718": [
+        {
+            "Colonia": "San Rafael Tenanyecac",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90721": [
+        {
+            "Colonia": "Santiago Michac",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90722": [
+        {
+            "Colonia": "San Miguel Analco",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Santa Clara Atoyac",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Miguel Tlale",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Juan Tepactepec",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "La Caba\u00f1a",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "La Remolacha",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Antonio Teacalco",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90723": [
+        {
+            "Colonia": "Santa Elena",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Segura Michac",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Loma Verde",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "NCP Santa Elena Teacalco",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        },
+        {
+            "Colonia": "Zanja Real",
+            "Municipio": "Tlaxcala Nat\u00edvitas"
+        }
+    ],
+    "90725": [
+        {
+            "Colonia": "Santa Apolonia Teacalco",
+            "Municipio": "Tlaxcala Santa Apolonia Teacalco"
+        },
+        {
+            "Colonia": "El Ranchito",
+            "Municipio": "Tlaxcala Santa Apolonia Teacalco"
+        },
+        {
+            "Colonia": "El Carril",
+            "Municipio": "Tlaxcala Santa Apolonia Teacalco"
+        }
+    ],
+    "90730": [
+        {
+            "Colonia": "Santa Isabel Tetlatlahuca",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Santa Cruz Aquiahuac",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Atenco",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        }
+    ],
+    "90733": [
+        {
+            "Colonia": "Val Quirico",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Equiah Villa Sustentable",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Santa Ana Portales",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Santa \u00c1gueda",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        }
+    ],
+    "90734": [
+        {
+            "Colonia": "San Bartolom\u00e9 Tenango",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "San Andr\u00e9s Cuamilpa",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        },
+        {
+            "Colonia": "Santa Cruz Capulinares",
+            "Municipio": "Tlaxcala Tetlatlahuca"
+        }
+    ],
+    "90735": [
+        {
+            "Colonia": "El Alto",
+            "Municipio": "Tlaxcala San Dami\u00e1n Tex\u00f3loc"
+        }
+    ],
+    "90736": [
+        {
+            "Colonia": "Monterrey",
+            "Municipio": "Tlaxcala San Dami\u00e1n Tex\u00f3loc"
+        },
+        {
+            "Colonia": "Zavaleta",
+            "Municipio": "Tlaxcala San Dami\u00e1n Tex\u00f3loc"
+        },
+        {
+            "Colonia": "La Cueva",
+            "Municipio": "Tlaxcala San Dami\u00e1n Tex\u00f3loc"
+        }
+    ],
+    "90737": [
+        {
+            "Colonia": "Luis Echeverr\u00eda",
+            "Municipio": "Tlaxcala San Dami\u00e1n Tex\u00f3loc"
+        }
+    ],
+    "90738": [
+        {
+            "Colonia": "San Jer\u00f3nimo Zacualpan",
+            "Municipio": "Tlaxcala San Jer\u00f3nimo Zacualpan"
+        }
+    ],
+    "90740": [
+        {
+            "Colonia": "Secci\u00f3n Segunda",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Secci\u00f3n Primera",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "La Libertad",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Alberto Ju\u00e1rez Blancas",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Tlaxcala Zacatelco"
+        }
+    ],
+    "90750": [
+        {
+            "Colonia": "Secci\u00f3n Tercera Gurdia",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Secci\u00f3n Cuarta",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Secci\u00f3n Quinta",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Exquitla",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Xochicalco",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "CROM Santa In\u00e9s",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Girasoles",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Guardia",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Las Am\u00e9ricas",
+            "Municipio": "Tlaxcala Zacatelco"
+        },
+        {
+            "Colonia": "Privansa",
+            "Municipio": "Tlaxcala Zacatelco"
+        }
+    ],
+    "90754": [
+        {
+            "Colonia": "Domingo Arenas",
+            "Municipio": "Tlaxcala Zacatelco"
+        }
+    ],
+    "90760": [
+        {
+            "Colonia": "San Lorenzo Axocomanitla",
+            "Municipio": "Tlaxcala San Lorenzo Axocomanitla"
+        }
+    ],
+    "90770": [
+        {
+            "Colonia": "Santa Catarina Ayometla",
+            "Municipio": "Tlaxcala Santa Catarina Ayometla"
+        }
+    ],
+    "90773": [
+        {
+            "Colonia": "Estocapa",
+            "Municipio": "Tlaxcala Santa Catarina Ayometla"
+        }
+    ],
+    "90774": [
+        {
+            "Colonia": "Tlapayatla",
+            "Municipio": "Tlaxcala Santa Catarina Ayometla"
+        }
+    ],
+    "90775": [
+        {
+            "Colonia": "Tlaxcaltecatla",
+            "Municipio": "Tlaxcala Santa Catarina Ayometla"
+        }
+    ],
+    "90780": [
+        {
+            "Colonia": "Xicohtzingo",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "Santa Filomena",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "El Rancho",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "El Llano",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "Capul\u00edn",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "El Cerrito",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "Chalma",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "Techaloya",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "El Llano 2",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        },
+        {
+            "Colonia": "El Llano 1",
+            "Municipio": "Tlaxcala Xicohtzinco"
+        }
+    ],
+    "90790": [
+        {
+            "Colonia": "San Francisco Papalotla Centro",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "San Juan Bosco",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Xilotzingo",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Xolalpa",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Xaltipa",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "La Trinidad",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Los Reyes",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        }
+    ],
+    "90791": [
+        {
+            "Colonia": "San Marcos Contla",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        }
+    ],
+    "90796": [
+        {
+            "Colonia": "Panzacola",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "San Buenaventura",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Tenantitla",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "La Ci\u00e9nega",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        },
+        {
+            "Colonia": "Santo Toribio Xicotzinco",
+            "Municipio": "Tlaxcala Papalotla de Xicoht\u00e9ncatl"
+        }
+    ],
+    "90800": [
+        {
+            "Colonia": "Santa Ana Chiautempan Centro",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Xaltantla",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Lucero",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90802": [
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Industrial",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Los Pinos",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Puente Picazo",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Ximentla",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "San Onofre",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Santa Cruz Tetela",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Llanos de Tepetlapa",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "La Magdalena",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90803": [
+        {
+            "Colonia": "Tlapacoyac",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Villa de las Flores",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90804": [
+        {
+            "Colonia": "Chalma",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "El Llanito",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "De F\u00e1tima",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "La Laguna",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Los \u00c1lamos",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90805": [
+        {
+            "Colonia": "Jos\u00e9 Agust\u00edn Arrieta",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "La Concha",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Panzacola",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Panzacola",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Tepetlapa",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Del Carmen",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "San Sebasti\u00e1n",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90806": [
+        {
+            "Colonia": "Nueva",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Texcacoac",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Xaxala",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Constituci\u00f3n",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Texcacoac",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90807": [
+        {
+            "Colonia": "El Alto",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "La Malinche",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Villas del Sabinal",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90810": [
+        {
+            "Colonia": "Guadalupe Ixcotla",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Santa Cruz Guadalupe",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90820": [
+        {
+            "Colonia": "San Bartolom\u00e9 Cuahuixmatlac",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "San Pedro Xochiteotla",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "San Pedro Mu\u00f1oztla",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "San Pedro Tlalcuapan de Nicol\u00e1s Bravo",
+            "Municipio": "Tlaxcala Chiautempan"
+        },
+        {
+            "Colonia": "Ramontla",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90821": [
+        {
+            "Colonia": "San Rafael Tepatlaxco",
+            "Municipio": "Tlaxcala Chiautempan"
+        }
+    ],
+    "90830": [
+        {
+            "Colonia": "La Magdalena Tlaltelulco",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        }
+    ],
+    "90833": [
+        {
+            "Colonia": "Tecpa Morales",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Tecpa Pluma",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Santa Cruz Progreso",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "1901",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Tezoquipan",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Estocapa",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Villa de las Flores",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Progreso",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "La Loma",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        }
+    ],
+    "90834": [
+        {
+            "Colonia": "Poxtla 1a Secci\u00f3n",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Poxtla 2a Secci\u00f3n",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Calnahuac",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Comalteopan",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Satelite",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        }
+    ],
+    "90835": [
+        {
+            "Colonia": "Teotlalpan",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Santa Cruz Yoalcoatl",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "Yoalcoatl",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        },
+        {
+            "Colonia": "La Venta",
+            "Municipio": "Tlaxcala La Magdalena Tlaltelulco"
+        }
+    ],
+    "90843": [
+        {
+            "Colonia": "Jes\u00fas Xolalpan",
+            "Municipio": "Tlaxcala San Francisco Tetlanohcan"
+        },
+        {
+            "Colonia": "Santa Cruz Matlacahuacan",
+            "Municipio": "Tlaxcala San Francisco Tetlanohcan"
+        }
+    ],
+    "90845": [
+        {
+            "Colonia": "Dolores Aquiahuac",
+            "Municipio": "Tlaxcala San Francisco Tetlanohcan"
+        }
+    ],
+    "90847": [
+        {
+            "Colonia": "Vivero Malintzi",
+            "Municipio": "Tlaxcala San Francisco Tetlanohcan"
+        }
+    ],
+    "90850": [
+        {
+            "Colonia": "Santa Maria Acxotla Del Monte",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Cuaxinca",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Cuauhtla",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Actipa",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Primera",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Segunda",
+            "Municipio": "Tlaxcala Teolocholco"
+        },
+        {
+            "Colonia": "Tercera",
+            "Municipio": "Tlaxcala Teolocholco"
+        }
+    ],
+    "90855": [
+        {
+            "Colonia": "El Carmen Aztama",
+            "Municipio": "Tlaxcala Teolocholco"
+        }
+    ],
+    "90860": [
+        {
+            "Colonia": "Acuamanala",
+            "Municipio": "Tlaxcala Acuamanala de Miguel Hidalgo"
+        },
+        {
+            "Colonia": "Concepci\u00f3n Chimalpa",
+            "Municipio": "Tlaxcala Acuamanala de Miguel Hidalgo"
+        }
+    ],
+    "90861": [
+        {
+            "Colonia": "Guadalupe Hidalgo",
+            "Municipio": "Tlaxcala Acuamanala de Miguel Hidalgo"
+        }
+    ],
+    "90864": [
+        {
+            "Colonia": "Olextla de Ju\u00e1rez",
+            "Municipio": "Tlaxcala Acuamanala de Miguel Hidalgo"
+        }
+    ],
+    "90867": [
+        {
+            "Colonia": "Santa Cruz Quilehtla",
+            "Municipio": "Tlaxcala Santa Cruz Quilehtla"
+        },
+        {
+            "Colonia": "Ayometitla",
+            "Municipio": "Tlaxcala Santa Cruz Quilehtla"
+        }
+    ],
+    "90870": [
+        {
+            "Colonia": "Primera",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90873": [
+        {
+            "Colonia": "Cuarta",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90874": [
+        {
+            "Colonia": "Tercera",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90875": [
+        {
+            "Colonia": "Segunda",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90876": [
+        {
+            "Colonia": "San Juan Ixhualco",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        },
+        {
+            "Colonia": "Ramos Mu\u00f1oz Manzano",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90877": [
+        {
+            "Colonia": "Zacatecoma",
+            "Municipio": "Tlaxcala Mazatecochco de Jos\u00e9 Mar\u00eda Morelos"
+        }
+    ],
+    "90880": [
+        {
+            "Colonia": "Tenancingo",
+            "Municipio": "Tlaxcala Tenancingo"
+        }
+    ],
+    "90883": [
+        {
+            "Colonia": "Tecoac",
+            "Municipio": "Tlaxcala Tenancingo"
+        }
+    ],
+    "90886": [
+        {
+            "Colonia": "Concepci\u00f3n Acopilco",
+            "Municipio": "Tlaxcala Tenancingo"
+        }
+    ],
+    "90887": [
+        {
+            "Colonia": "Tepepantlalpa (Magdalena Reyes)",
+            "Municipio": "Tlaxcala Tenancingo"
+        }
+    ],
+    "90890": [
+        {
+            "Colonia": "San Isidro Buen Suceso",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90894": [
+        {
+            "Colonia": "Tetzacual",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90895": [
+        {
+            "Colonia": "Cacamila San Antonio",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90896": [
+        {
+            "Colonia": "Hueyocotl",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90897": [
+        {
+            "Colonia": "Ex-hacienda Guadalupe Xaltelulco",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90898": [
+        {
+            "Colonia": "Acopilco",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90900": [
+        {
+            "Colonia": "Villa Vicente Guerrero",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90920": [
+        {
+            "Colonia": "Cristo",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90930": [
+        {
+            "Colonia": "Xahu\u00e9n Vargas",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        },
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90940": [
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        },
+        {
+            "Colonia": "Santiago",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90950": [
+        {
+            "Colonia": "La Sant\u00edsima",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90960": [
+        {
+            "Colonia": "San Cosme",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90970": [
+        {
+            "Colonia": "Jes\u00fas",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        },
+        {
+            "Colonia": "San Bartolom\u00e9",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        },
+        {
+            "Colonia": "San Sebasti\u00e1n",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90980": [
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ],
+    "90990": [
+        {
+            "Colonia": "Tlaltepango",
+            "Municipio": "Tlaxcala San Pablo del Monte"
+        }
+    ]
+}

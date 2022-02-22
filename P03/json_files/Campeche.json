@@ -1,0 +1,5682 @@
+{
+    "24000": [
+        {
+            "Colonia": "San Francisco de Campeche Centro",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24010": [
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Pablo Garcia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa del R\u00edo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24014": [
+        {
+            "Colonia": "Ah-kim-pech",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24020": [
+        {
+            "Colonia": "Residencial del Bosque",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bellavista",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Bellavista",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Ermita",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Joaqu\u00edn",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Santa Lucia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Camino Real",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Buenos Aires",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Caralampio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Dzarbay",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Sotavento",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villamar",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24022": [
+        {
+            "Colonia": "Montecarlo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Carzabela",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24023": [
+        {
+            "Colonia": "Fidel Vel\u00e1zquez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Murallas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Algarrobo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ernesto Zedillo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Campestre",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Nachi Cocom",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Quinta Hermosa",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hacienda Real el Fenix",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24024": [
+        {
+            "Colonia": "M\u00e1rtires de R\u00edo Blanco",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24025": [
+        {
+            "Colonia": "Solidaridad Nacional",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24026": [
+        {
+            "Colonia": "Granjas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Morelos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Jos\u00e9 el Alto",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Divino Ni\u00f1o",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Minas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cumbres",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Valle Dorado",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Josefa Ortiz de Dom\u00ednguez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Mirador",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Elvia Mar\u00eda P\u00e9rez de Gonz\u00e1lez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Viveros",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Diana Laura",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Luis Donaldo Colosio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Palma Real",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24027": [
+        {
+            "Colonia": "Palmas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Mercedes",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24028": [
+        {
+            "Colonia": "Villas de Ah-kim-Pech",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cocotero de las Palmas",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24029": [
+        {
+            "Colonia": "Centro SCT Campeche",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24030": [
+        {
+            "Colonia": "Bosques de Campeche",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "H\u00e9roes de Chapultepec (FOVI)",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Miramar",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas del Castillo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villas Universidad",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24035": [
+        {
+            "Colonia": "Lomas del Rey",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villas de Allende",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Cayetano",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Arturo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bur\u00f3cratas Pensiones",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cerro de La Eminencia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Prado",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas del Pedregal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Pedregal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Invasi\u00f3n San Arturo",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24036": [
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos (SUTERM)",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "El Pedregal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Electricistas",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24037": [
+        {
+            "Colonia": "Ciudad Militar",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24038": [
+        {
+            "Colonia": "Kanist\u00e9",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Kaniste",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Rinconada del Valle",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Monte Verde",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24039": [
+        {
+            "Colonia": "Buenavista",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24040": [
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Privada Narciso Mendoza",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24044": [
+        {
+            "Colonia": "Montecristo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lazareto",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Resurgimiento",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24049": [
+        {
+            "Colonia": "Bicentenario I y II",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24050": [
+        {
+            "Colonia": "FOVISSSTE Bel\u00e9n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Santa Ana",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Tulipanes",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Paz",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Huerta",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Parque Residencial La Noria",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Privada Guadalupana",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hollywood",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Campeche 1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Santa Ana",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24058": [
+        {
+            "Colonia": "Caribe",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24060": [
+        {
+            "Colonia": "Valle del \u00c1guila",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "El Polvor\u00edn",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Polvor\u00edn",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Jardines",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tomas Aznar",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Sector Las Flores",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Bugambilias",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tabachines",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas del Polvor\u00edn",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Leovigildo G\u00f3mez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Unidad y Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Solidaridad Urbana",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas de las Flores",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Montebello",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Naval Campeche III",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Delicias",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas Delicias",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Quintas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Colinas del Sur",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Casa Blanca",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Altavista",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas de las Flores II",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villas de Monte Real",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tacubaya",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villareal",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24069": [
+        {
+            "Colonia": "Flor de Lim\u00f3n",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24070": [
+        {
+            "Colonia": "Aviaci\u00f3n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cuatro Caminos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Cuatro Caminos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Huanal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Justo Sierra M\u00e9ndez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Santa B\u00e1rbara",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cuatro Caminos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bello Horizonte",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "H\u00e9roe de Nacozari",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hacienda Santa Mar\u00eda",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Colonia M\u00e9xico",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Justicia Social",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Quinta de Los Espa\u00f1oles",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24073": [
+        {
+            "Colonia": "Siglo XXI",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24075": [
+        {
+            "Colonia": "El Carmelo",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24079": [
+        {
+            "Colonia": "Campeche (Ing. Alberto Acu\u00f1a Ongay)",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24080": [
+        {
+            "Colonia": "Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Pablo Garcia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Revoluci\u00f3n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Josefa Ortiz de Dom\u00ednguez",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Invasi\u00f3n Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24083": [
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24084": [
+        {
+            "Colonia": "Siglo XXIII",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Nuevo San Antonio Ebul\u00e1",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24085": [
+        {
+            "Colonia": "Villas de Kala",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Altamira",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ciudad Concordia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bosque Real",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Kala",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ram\u00f3n Esp\u00edndola Blanco",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Murallas FSTSE",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial La Hacienda",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Ciudad Concordia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Invasi\u00f3n Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "20 de Noviembre",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24086": [
+        {
+            "Colonia": "Villa Flora",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Turquesa",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24087": [
+        {
+            "Colonia": "Los Reyes",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Eduardo J. Lavalle Urbina",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Privada Exhacienda Kala",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Colonial Campeche",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Caminero",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Kala",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hacienda San Antonio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tula",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Vista Hermosa",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Privada Residencial Colonial",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Terranova",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24088": [
+        {
+            "Colonia": "Alameda",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Arboledas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "H\u00e9roes de la Revoluci\u00f3n",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Unidad y Trabajo Plan-chac",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Naranjos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "F\u00e9nix",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Presidentes de M\u00e9xico",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Paseo de Campeche",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Los Cedros",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "VIVAH",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villas la Hacienda",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "El Vergel",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Los \u00c1lamos",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Colonia",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Insurgentes",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24089": [
+        {
+            "Colonia": "Pe\u00f1a",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24090": [
+        {
+            "Colonia": "Los Sauces",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villas de Samula",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Vista",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n San Rafael",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Rinconada Samula",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Infonavit Samula",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Campanillas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Flor de Liz",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Andr\u00e9s",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Girasoles",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Jazm\u00edn",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Fracciorama 2000",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Samul\u00e1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Rafael",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Valle del Sol",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial Villas Colosio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Nueva Era",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24093": [
+        {
+            "Colonia": "Villas Residencial (Ix-Lol-Be)",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial La Arboleda",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24094": [
+        {
+            "Colonia": "Miguel Hidalgo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Miguel Hidalgo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Ca\u00f1ada",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Ignacio Zaragoza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n Samul\u00e1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Miramar",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Laureles II",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Esmeralda",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24095": [
+        {
+            "Colonia": "Residencial los Almendros",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Sascalum",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Residencial San Francisco",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Reforma Agraria",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Laureles",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Multunchac",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Villa Dalias",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "18 de Marzo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "El Doral",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24096": [
+        {
+            "Colonia": "Lindavista C.T.M.",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Los Laureles",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tepeyac",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Guadalajara",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24097": [
+        {
+            "Colonia": "Las Flores",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Rosas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Santa Cecilia",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24098": [
+        {
+            "Colonia": "Ignacio Zaragoza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lomas de Zaragoza",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24099": [
+        {
+            "Colonia": "Lomas de San Rafael",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Rafael",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Ampliaci\u00f3n San Antonio",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24100": [
+        {
+            "Colonia": "Ciudad del Carmen Centro",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24108": [
+        {
+            "Colonia": "CERESO Ciudad del Carmen",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24110": [
+        {
+            "Colonia": "Caleta",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "H\u00e9ctor P\u00e9rez Mart\u00ednez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "1 de Mayo (Play\u00f3n)",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Agustin del Palmar",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24114": [
+        {
+            "Colonia": "Justo Sierra",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24115": [
+        {
+            "Colonia": "Marina del Rey",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Morelos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Miami",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Monte Bello",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Playa Norte",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24116": [
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Boquer\u00f3n del Palmar",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24117": [
+        {
+            "Colonia": "Obrera",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24118": [
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24119": [
+        {
+            "Colonia": "Ciudad del Carmen (Ciudad del Carmen)",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Aeropuerto",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24120": [
+        {
+            "Colonia": "Electricistas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Margarita",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24129": [
+        {
+            "Colonia": "Puerto Pesquero",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24130": [
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "20 de Noviembre",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24139": [
+        {
+            "Colonia": "Guanal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puntilla",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24140": [
+        {
+            "Colonia": "Pallas",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24150": [
+        {
+            "Colonia": "Belisario Dom\u00ednguez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Luis Donaldo Colosio",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Rivera",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24153": [
+        {
+            "Colonia": "Residencial Las Palmas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mundo Maya",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24154": [
+        {
+            "Colonia": "Arcila",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Compositores",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Isla del Carmen 2000",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Los Arcos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Maderas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Perla del Golfo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puente de La Unidad",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Manuel",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Rafael del J Lozano Contreras",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Pueblo Maya",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Palmira",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Los R\u00edos",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24155": [
+        {
+            "Colonia": "Renovaci\u00f3n I",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Renovaci\u00f3n II",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "23 de Julio",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Plutarco El\u00edas Calles",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Solidaridad Urbana",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Volcanes",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Renovaci\u00f3n III",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Isla de Tris",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa San Jos\u00e9",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Universitaria",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Conejo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Capistrano",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa M\u00f3nica",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villas de Santa Ana",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24156": [
+        {
+            "Colonia": "Residencial El Cielo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puerta de Hierro",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Dorado",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa del Mar",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Florencia",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa de Los \u00c1ngeles",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Encantada",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mediterr\u00e1neo",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24157": [
+        {
+            "Colonia": "Buenavista",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Turquesa",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Rinconada",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Residencial Vistancias",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Club Residencial Azul",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mar Azul",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Bicentenario",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Paseo de los Bosques",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puesta del Sol",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Joaqu\u00edn",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Isabel",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Residencial San Miguel",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Privada Santa Ana",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Privada San Joaqu\u00edn",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Playa Palmas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Las Esperanzas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Real del Carmen",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Hacienda Dorada",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Girasoles",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ra\u00edces",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villas del Carmen",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Magna",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Marina",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Misi\u00f3n del Carmen",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Reforma II Secci\u00f3n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Evergre\u00e9n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Jos\u00e9 Ortiz \u00c1vila",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Hacienda del Mar",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Canter\u00edas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Villa Palmeras",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "18 de Marzo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Privanzas",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24158": [
+        {
+            "Colonia": "Orizaba",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Constelaciones",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Bivalbo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "H\u00e9roes de Nacozari",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Reforma",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Residencial del Lago",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rita",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Las Huertas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mujeres Carmelitas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rita II",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rita III",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Potrero",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Constelaciones II",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24160": [
+        {
+            "Colonia": "Bur\u00f3crata",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24166": [
+        {
+            "Colonia": "Justo Sierra",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24167": [
+        {
+            "Colonia": "Lomas de Holche",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24169": [
+        {
+            "Colonia": "Camaroneros",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Asa Poniente",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24170": [
+        {
+            "Colonia": "Aviaci\u00f3n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Tila",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24178": [
+        {
+            "Colonia": "Tecolutla",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24179": [
+        {
+            "Colonia": "Petrolera",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24180": [
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez 2",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Limonar",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Tacubaya",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24185": [
+        {
+            "Colonia": "Estrella",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24186": [
+        {
+            "Colonia": "Miguel de La Madrid",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24187": [
+        {
+            "Colonia": "Manigua",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24188": [
+        {
+            "Colonia": "Caracol",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24189": [
+        {
+            "Colonia": "Salitral",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24190": [
+        {
+            "Colonia": "Francisco I Madero",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24195": [
+        {
+            "Colonia": "Pedro Sainz de Baranda",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Las Pilas",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24197": [
+        {
+            "Colonia": "Insurgentes",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Malibr\u00e1n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rosal\u00eda",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24198": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24199": [
+        {
+            "Colonia": "FOVISSSTE",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24200": [
+        {
+            "Colonia": "Palizada Centro",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Aviaci\u00f3n",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Justicia Social",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24203": [
+        {
+            "Colonia": "El Porvenir",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Lag\u00f3n Dulce",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Puerto Arturo",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24204": [
+        {
+            "Colonia": "El Mangal",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Isla de San Isidro",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Rivera de la Viuda",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Ribera de la Corriente",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Tila",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Ribera San Eduardo",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Ribera G\u00f3mez",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Las Bodegas",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24205": [
+        {
+            "Colonia": "Plan del Carmen",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Ribera del Play\u00f3n",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Agust\u00edn",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Alamilla",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa Isabel",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Borbot\u00f3n",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Joaqu\u00edn",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Para\u00edso",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Cuyo",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Toza",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24206": [
+        {
+            "Colonia": "El Cuerno",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Vergel",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Envidia",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Victoria",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Los Laureles",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa M\u00f3nica (Santa Rita)",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa Elena",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Amatit\u00e1n",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Monterrey",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Paso de los Caballos",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24207": [
+        {
+            "Colonia": "El Juncal",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Las Flores",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San \u00c1ngel",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Jorge",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Nueva Esperanza",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Candelaria",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Villa Rosa",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Cronos",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Carmen (San Marcos)",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Retiro",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Gardenias",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Concepci\u00f3n",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "La Guadalupe",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Mata del Chato",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Mata Larga",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "R\u00edo Blanco",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "San Hilario",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "El Popistal",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Tumbo de la Monta\u00f1a",
+            "Municipio": "Campeche Palizada"
+        },
+        {
+            "Colonia": "Santa Adelaida",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24208": [
+        {
+            "Colonia": "Ribera Boca Chica",
+            "Municipio": "Campeche Palizada"
+        }
+    ],
+    "24300": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nueva Emiliano Zapata",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Para\u00edso",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nueva",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Juan Pablo Cetina",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Sabancuy Centro",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Banco de Piedra",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "P\u00e9njamo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Jabal",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24310": [
+        {
+            "Colonia": "Oxcabal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ignacio Guti\u00e9rrez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Oxcabal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Antonio (Punta de Piedra)",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Pita",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Anonal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Calax",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24313": [
+        {
+            "Colonia": "General Abelardo L Rodriguez (el Jobal)",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Plan de Ayala",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Chic-bul",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Chekubul",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Pino Su\u00e1rez",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nicol\u00e1s Bravo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Cristalina",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Colonia A L\u00f3pez Mateos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rosal\u00eda",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Los Manantiales",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Chivoja",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Lupita",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24314": [
+        {
+            "Colonia": "Las Delicias",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Enrique Rodriguez Cano",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "18 de Marzo",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24315": [
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Francisco Villa (mamantel)",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Pital Nuevo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Pital Viejo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Providencia",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mamantel Viejo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Concepci\u00f3n",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24316": [
+        {
+            "Colonia": "Carlos Quinto",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nueva Chontalpa",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Felipe \u00c1ngeles",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ojo de Agua",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Encanto",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Quebranche",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ignacio Zaragoza",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "2 de Marzo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Jorge de Coyoc",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Pablito Km. 59",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Las Cruces",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24317": [
+        {
+            "Colonia": "Allende Pejelagarto",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Centauro del Norte",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Florida",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Chinal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Carmen",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Estrella",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Sacrificio",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Conquista Campesina",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Aguacatal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Venustiano Carranza",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Cinco de Mayo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Triunfo",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Belisario Dom\u00ednguez",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24320": [
+        {
+            "Colonia": "Bella Palizada",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Polvoxal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Mar\u00eda de La Luz",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24322": [
+        {
+            "Colonia": "Arrozal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Jos\u00e9 (El Deshecho)",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24323": [
+        {
+            "Colonia": "Fernando Foglio Miramontes",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Murallas de Campeche",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Valle de Solidaridad",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "General\u00edsimo Morelos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Santa Rita",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Mameyal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Refugio",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Marentes",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24324": [
+        {
+            "Colonia": "El Popistal",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Zapote",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Paso San Juan",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Vista Alegre",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Pimienta",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Elpidio",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Tres Valles",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24325": [
+        {
+            "Colonia": "Cantarell [Planta de Nitr\u00f3geno]",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ribera de San Francisco",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Antonio C\u00e1rdenas",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nuevo Campechito",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Nuevo Progreso",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ribera Media",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Ribera Alta",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "El Pom",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24326": [
+        {
+            "Colonia": "Atasta",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "San Salvador de los Cerrillos",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puerto Rico",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Punta Zacatal",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24327": [
+        {
+            "Colonia": "Reubicaci\u00f3n",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Isla Aguada Centro",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Puerto Real",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "Boca Nueva",
+            "Municipio": "Campeche Carmen"
+        },
+        {
+            "Colonia": "La Lagartera",
+            "Municipio": "Campeche Carmen"
+        }
+    ],
+    "24330": [
+        {
+            "Colonia": "Coahuilita",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Pablo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Candelaria Centro",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Acalan",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Mart\u00edn",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Guanajuato",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Independencia",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Alejandr\u00eda",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24333": [
+        {
+            "Colonia": "El Capul\u00edn",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Sacrificio II",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Maravillas (Campo Menonita)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Pejelagarto II",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "R-2007",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Am\u00e9ricas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Vicente Lombardo Toledano",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Nueva Lucha",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nueva Rosita",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Pejelagarto",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nueva Esperanza",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Miguel Alem\u00e1n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Chilar",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Fortuna",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Uni\u00f3n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Pocito",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24334": [
+        {
+            "Colonia": "Nueva Esperanza",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Santo Domingo (El Cuyo)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Justo Sierra M\u00e9ndez",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Ramonal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Estrella del Sur",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Golondrinas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Tigre",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Pedro Baranda",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nuevo Coahuila",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Monclova",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Miguel Hidalgo y Costilla",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Estado de M\u00e9xico",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Esperanza",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Francisco I. Madero",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Zanja (La Palma)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Luinal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Hermanos Cruz",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Calzada",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24335": [
+        {
+            "Colonia": "El Treinta (Las \u00c1guilas)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Pelusa",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Porvenir",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Tintal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Mamey",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24336": [
+        {
+            "Colonia": "El Escondido",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Esfuerzo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Paso del Cuervo (El Cuervo)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Ramonal II (Los Manguitos)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Florida (El Cuatro)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Florida Tres",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Mojina",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Delicias",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Margaritas Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Los Jabines Uno",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Los Limones",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Rancho Alegre",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Rancho Alegre Tres",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Tres Reyes",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Para\u00edso Nuevo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Pablo Garc\u00eda",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Suspiro",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Naranjo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Machetazo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "California",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Lim\u00f3n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Encanto",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Piedral (El Muerto)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Campanas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Lucha",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Los Cuatro Hermanos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Lorenzo",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24337": [
+        {
+            "Colonia": "Santa Rita",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Nuevo Ferrocarril",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Oto\u00f1o",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Felipe",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Triunfo Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Triunfo Uno",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Corte Pajaral",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Venustiano Carranza",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Amapola",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Palmitas",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24338": [
+        {
+            "Colonia": "El Borbonal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Isla del Esfuerzo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Champas Quemadas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez Uno",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Primer Presidente de M\u00e9xico (Guadalupe Victoria)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "General Francisco J. M\u00fajica",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24342": [
+        {
+            "Colonia": "El Manantial",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Cinco Hermanos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Diamante",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Pulguero",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Rel\u00e1mpago",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Tabl\u00f3n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Licenciado Jos\u00e9 Antonio Gonz\u00e1lez Curi",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Los Cardenales",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nuevo Capricho",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nuevo Progreso",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "R\u00edo Caribe (Caribe)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Crist\u00f3bal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El \u00daltimo Esfuerzo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Las Palmas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Aguada Seca",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Sal Si Puedes",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Selva Negra",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nuevo Comalcalco",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24343": [
+        {
+            "Colonia": "El Milagro",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Emiliano Zapata III",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Isla del Para\u00edso",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Guadalupe",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nueva Rosita II",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Fernando",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Tres Hermanos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Rafael del R\u00edo Caribe",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Pablo Torres Burgos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Pedregal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Chinal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Olla",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Marfil (Palo Alto)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Santa Luc\u00eda",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Jos\u00e9 de las Monta\u00f1as",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24344": [
+        {
+            "Colonia": "Tres de Mayo Tres",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Champas Quemadas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Calabozo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Chechenal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Encanto",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Fantasma (Los Chileros)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Pimiental Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Esperancita",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Montecristo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Naranjito",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nuevo Tabasco",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Agua Azul",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24345": [
+        {
+            "Colonia": "Miguel de la Madrid (El Pa\u00f1uelo)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Balancancito",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Cayuco",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Taziztal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Peregrina",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Tres de Mayo Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Misteriosa",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Mirador Primero",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La T\u00f3mbola",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Los Pollos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Paraguas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Destino",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24346": [
+        {
+            "Colonia": "Arroyo del Julubal",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Arroyo Veinticuatro de Mayo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Balankax",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Blancas Mariposas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Delicias I",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Uni\u00f3n (Dos Arroyos)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nego Eben-Ezer",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Desenga\u00f1o",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Alianza Productora",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Arroyo de Cuba",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Carlos Sansores P\u00e9rez (La Paz)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Solidaridad",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Tres Reyes",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Dimas (Alianza II)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24347": [
+        {
+            "Colonia": "Tenancingo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Vicente Guerrero N\u00famero 2",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Nueva Delicias II",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Tigre Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "El Tulip\u00e1n (El Imposible)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Francisco Villa",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Rancho Alegre",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Flor de Chiapas",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Narcizo Mendoza",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24348": [
+        {
+            "Colonia": "Laguna la Perdida",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Aguas Malas (Tres Cruces)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Arroyo San Juan (Las Golondrinas)",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Esperancita Dos",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Ilusi\u00f3n",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Laguna San Ram\u00f3n I",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "H\u00e9ctor P\u00e9rez Morales",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "San Manuel Nuevo Canutillo",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "La Esmeralda",
+            "Municipio": "Campeche Candelaria"
+        },
+        {
+            "Colonia": "Ignacio Zaragoza (El Salvaje)",
+            "Municipio": "Campeche Candelaria"
+        }
+    ],
+    "24350": [
+        {
+            "Colonia": "Esc\u00e1rcega Centro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Sal Si Puedes II",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Sal Si Puedes I",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Jes\u00fas Garc\u00eda",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Concordia",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "10 de Mayo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Flores Mag\u00f3n",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Morelos",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Fertimex",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Esperanza",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Unidad Esfuerzo y Trabajo II",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Unidad Esfuerzo y Trabajo I",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "I. Zaragoza",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "C. Salinas de Gortari",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Vicente Fox",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Jeringa",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24353": [
+        {
+            "Colonia": "Miguel Hidalgo (Caracol)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "California",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Colonia San Francisco (El Cinco)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Arbolito",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Caracol",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Matamoros",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24354": [
+        {
+            "Colonia": "Don Samuel",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Divisi\u00f3n del Norte",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Haro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24355": [
+        {
+            "Colonia": "El Calabozo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24356": [
+        {
+            "Colonia": "El Gallo Samuel (El Gallito)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24357": [
+        {
+            "Colonia": "Ignacio Magdaleno",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Misteriosa",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Luna",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Francisco I. Madero",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez (La Polla)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Flor",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24358": [
+        {
+            "Colonia": "El Corriental",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Gallo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Pozo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Retiro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Santa Isabel",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Guadalajara",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Huiro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24364": [
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Esperanza",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Kil\u00f3metro Setenta y Cuatro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Juan Escutia",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Juan de la Barrera",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24365": [
+        {
+            "Colonia": "La Constancia",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "San Carlos",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Victoria",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24366": [
+        {
+            "Colonia": "El Zacatecano",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Mar\u00eda de la Luz",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "San Luis",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24367": [
+        {
+            "Colonia": "El Diamante",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Rosario (Puerto Escondido)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Fe",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Santa Martha (El Naranjito)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Nuevo Progreso Dos",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24368": [
+        {
+            "Colonia": "Herradero",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "San Alejandro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Jos\u00e9 de la Cruz Blanco",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Kil\u00f3metro Treinta y Seis",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Asunci\u00f3n",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24369": [
+        {
+            "Colonia": "Chambalita",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Hular",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Tornillo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Miguel Hidalgo y Costilla",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "La Chiquita",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24370": [
+        {
+            "Colonia": "Altamira de Zin\u00e1paro",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Silvituc",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Centenario",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Flor de Chiapas",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Laguna Grande",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Jos\u00e9 L\u00f3pez Portillo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez N\u00famero 3",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24372": [
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24373": [
+        {
+            "Colonia": "Las Maravillas",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Chan Laguna",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Jobal",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24374": [
+        {
+            "Colonia": "La Libertad",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Justicia Social",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Adolfo L\u00f3pez Mateos",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "El Lechugal",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Nuevo Campeche (Tres Aguadas)",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24375": [
+        {
+            "Colonia": "Bel\u00e9n",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "General Rodolfo Fierros",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        },
+        {
+            "Colonia": "Miguel de la Madrid",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24376": [
+        {
+            "Colonia": "Alto R\u00edo Caribe",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24377": [
+        {
+            "Colonia": "El Conejo",
+            "Municipio": "Campeche Esc\u00e1rcega"
+        }
+    ],
+    "24400": [
+        {
+            "Colonia": "Tierra y Libertad",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Lindavista",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Champot\u00f3n Centro",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Crist\u00f3bal Colon",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Pozo del Chenpek",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Cruz",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Las Brisas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "INFONAVIT Miraflores",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Moch-Cohuo",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nueva Esperanza",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nueva Esperanza INFONAVIT",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Plan-chac",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Pozo del Monte",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Patricio",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Tajonal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Venustiano Carranza",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Arenal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Arrocera",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Aserradero",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Avenida",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Ca\u00f1averal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Cardenal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Carolinas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Centenario",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Cocal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Concepci\u00f3n Duran",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Cuauht\u00e9moc",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Flamboyan",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Guadalupe Victoria",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "INFONAVIT",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "ISSSTE",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Playa",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Santa",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Las Mercedes",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Las Palomas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Laureles",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Malec\u00f3n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Manguitos",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nueva Jerusal\u00e9n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Para\u00edso",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Pedregal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Puente Viejo",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Ulises Sansores",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Huanal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Camaroncito",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Microondas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Mirador",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "ISSFAM",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24402": [
+        {
+            "Colonia": "Ulumal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Moquel",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "El Zapote",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Canasayab",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Antonio del R\u00edo",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24404": [
+        {
+            "Colonia": "San Jos\u00e9 Carpizo Uno (San Fernando)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Jos\u00e9 Carpizo Dos",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24410": [
+        {
+            "Colonia": "Ley Federal de Reforma Agraria",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Luis Carpizo",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Pablo",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Punta Xen",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Villamar",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Fraternidad",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Felipe",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Marcos",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "El Caporal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Estrella",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24411": [
+        {
+            "Colonia": "Maya Tec\u00fan II",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "L\u00f3pez Mateos (La Desconfianza)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Pustunich",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Antonio Yacasay",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Maya Tec\u00fan I",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nueva Esperanza N\u00famero 2 (Santo Domingo)",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24413": [
+        {
+            "Colonia": "San Pablo Pixt\u00fan",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Valle Hermoso",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24414": [
+        {
+            "Colonia": "Pixoyal",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Dzacabuch\u00e9n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos y Pav\u00f3n (El Pocito)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Jos\u00e9 Mar\u00eda Morelos y Pav\u00f3n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Revoluci\u00f3n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Aquiles Serd\u00e1n (Chuin\u00e1)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "General Ortiz \u00c1vila",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nueva Esperanza Uno (San Miguel Tob\u00edas)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Monte Bravo",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24415": [
+        {
+            "Colonia": "Carrillo Puerto",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24416": [
+        {
+            "Colonia": "Xbacab",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24418": [
+        {
+            "Colonia": "Cinco de Febrero",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Miguel Colorado",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24419": [
+        {
+            "Colonia": "Profesor Graciano S\u00e1nchez",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24420": [
+        {
+            "Colonia": "Arellano",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Santa Cruz de Rovira",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24421": [
+        {
+            "Colonia": "Villa de Guadalupe",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Juan Carpizo",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Ca\u00f1averal",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24423": [
+        {
+            "Colonia": "Nuevo Michoac\u00e1n",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24424": [
+        {
+            "Colonia": "Nayarit Castellot",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Coronel Ortiz \u00c1vila",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "L\u00f3pez Portillo 2 (Nilun)",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Valle de Quetzalc\u00f3atl",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24440": [
+        {
+            "Colonia": "Hool",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Santo Domingo Kest\u00e9",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24441": [
+        {
+            "Colonia": "Carlos Salinas de Gortari",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Buenaventura",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Dzitbalch\u00e9 Castellot",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24443": [
+        {
+            "Colonia": "Chac Chaito",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Yohalt\u00fan",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Ah Kim Pech",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Chilam Balam",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Ignacio L\u00f3pez Ray\u00f3n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Kukulk\u00e1n",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Miguel Allende",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Moch Cohu\u00f3",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Providencia",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "Nuevo Para\u00edso [M\u00f3dulo]",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24450": [
+        {
+            "Colonia": "Sihochac",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24451": [
+        {
+            "Colonia": "El Porvenir",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Joya",
+            "Municipio": "Campeche Champot\u00f3n"
+        },
+        {
+            "Colonia": "La Noria",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24459": [
+        {
+            "Colonia": "Ciudad del Sol",
+            "Municipio": "Campeche Champot\u00f3n"
+        }
+    ],
+    "24460": [
+        {
+            "Colonia": "Seybaplaya Centro",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Carmelita",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Hornos",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Tizim\u00edn",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Santa Clara",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "La Jimba",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Cristo Rey",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "16 de Septiembre",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Frutales",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "San Rafael",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Siho Playa (Hotel)",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Costa Blanca",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "El Sombrer\u00f3n",
+            "Municipio": "Campeche Seybaplaya"
+        }
+    ],
+    "24462": [
+        {
+            "Colonia": "Nuevo Amanecer",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Villa Madero",
+            "Municipio": "Campeche Seybaplaya"
+        },
+        {
+            "Colonia": "Haltunch\u00e9n",
+            "Municipio": "Campeche Seybaplaya"
+        }
+    ],
+    "24464": [
+        {
+            "Colonia": "Xkeulil",
+            "Municipio": "Campeche Seybaplaya"
+        }
+    ],
+    "24500": [
+        {
+            "Colonia": "Lerma Centro",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Chiapaneca",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tepeyac",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Las Brisas",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tres Cruces",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Mara\u00f1on",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Becan",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Playa Bonita",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Pesquera",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Sat\u00e9lite",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Huayita",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lerma",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Kila",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Esp\u00edritu Santo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Guadalupana",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Secretaria de Marina",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Bartolo",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24505": [
+        {
+            "Colonia": "San Lorenzo",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24517": [
+        {
+            "Colonia": "Castamay",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24520": [
+        {
+            "Colonia": "Campestre Los Almendros",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "China",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hobomo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Mucuychakan",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Uayam\u00f3n",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24522": [
+        {
+            "Colonia": "San Agustin Ola",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24523": [
+        {
+            "Colonia": "Chulbac",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24532": [
+        {
+            "Colonia": "Pocyaxum",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24536": [
+        {
+            "Colonia": "Sierra Verde de Cayal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Uzahzil-Edzn\u00e1 (Nohyaxch\u00e9)",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24537": [
+        {
+            "Colonia": "Nohakal",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24540": [
+        {
+            "Colonia": "Pueblo Nuevo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Cayal",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Antonio Cayal",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24550": [
+        {
+            "Colonia": "Chencoll\u00ed (Citro-Kampeche)",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tikinmul",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Antonio Bobol\u00e1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Miguel Alem\u00e1n (X- Campeu)",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24552": [
+        {
+            "Colonia": "Nilchi",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24553": [
+        {
+            "Colonia": "San Camilo (Chencoll\u00ed)",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24557": [
+        {
+            "Colonia": "Crucero OXA",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24560": [
+        {
+            "Colonia": "R\u00edo Verde",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Hampolol",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Imi",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Francisco Koben",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24561": [
+        {
+            "Colonia": "CERESO San Francisco Kob\u00e9n",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24562": [
+        {
+            "Colonia": "Bethania",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24564": [
+        {
+            "Colonia": "Chemblas",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24570": [
+        {
+            "Colonia": "Nueva Esperanza",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Kikab",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Lubn\u00e1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Alfredo V. Bonfil",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Melchor Ocampo",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Tixmucuy",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Bolonch\u00e9n Cahuich",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Nuevo P\u00e9njamo",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24572": [
+        {
+            "Colonia": "Pich",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "San Luciano",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24573": [
+        {
+            "Colonia": "San Miguel Allende",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Carlos Cano Cruz (Los Tlaxcaltecas)",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "Los Laureles",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24574": [
+        {
+            "Colonia": "Quetzal Edzn\u00e1",
+            "Municipio": "Campeche Campeche"
+        },
+        {
+            "Colonia": "La Libertad",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24575": [
+        {
+            "Colonia": "Adolfo Ruiz Cortinez",
+            "Municipio": "Campeche Campeche"
+        }
+    ],
+    "24600": [
+        {
+            "Colonia": "Hopelchen Centro",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "El Tamarindo",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Campo de Aviaci\u00f3n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Magisterial",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Norte",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Luis",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Mart\u00edn",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Dolores Lanz",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24604": [
+        {
+            "Colonia": "El Poste",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Juan Bautista Sahcabch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Ich-Ek",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Crucero San Luis",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Francisco Suc-Tuc",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Santa Fe",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24605": [
+        {
+            "Colonia": "Xcupil",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24606": [
+        {
+            "Colonia": "Becanch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24607": [
+        {
+            "Colonia": "Komch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24609": [
+        {
+            "Colonia": "Pakch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24610": [
+        {
+            "Colonia": "Chencoh",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24611": [
+        {
+            "Colonia": "Dzibalch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24612": [
+        {
+            "Colonia": "Cancabch\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Francisco J. M\u00fajica (Los Uc\u00e1n)",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24613": [
+        {
+            "Colonia": "Chunchintok",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24615": [
+        {
+            "Colonia": "Ukum",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Xmej\u00eda",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24620": [
+        {
+            "Colonia": "Xcalot Akal",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Bernardo Huechil",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Bolonchen de Rej\u00f3n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Xcanahalt\u00fan Huechil Unidos",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Katab",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24622": [
+        {
+            "Colonia": "Chunyaxnic",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "San Antonio Yaxch\u00e9",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Chuncedro",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Xculoc",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24623": [
+        {
+            "Colonia": "Yaxch\u00e9 Akal",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Rancho Sosa",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24624": [
+        {
+            "Colonia": "Campo Menonita",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24640": [
+        {
+            "Colonia": "Bellavista",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "10 de Mayo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Xpujil",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Bugambilias",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Jardines",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Aviaci\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Fundadores",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24643": [
+        {
+            "Colonia": "Becan",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Chicana",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Chichonal",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Heriberto Jara Corona",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Plan de San Luis",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Valent\u00edn G\u00f3mez Farias",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24644": [
+        {
+            "Colonia": "Nuevo Becal",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Zoh-laguna (alvaro Obreg\u00f3n)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Bel-ha",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Dos Lagunas",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Refugio",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Nueva Vida",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Ricardo Flores Mag\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Tepeyac",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Uni\u00f3n 20 de Junio",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24645": [
+        {
+            "Colonia": "20 de Noviembre",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Crist\u00f3bal Colon",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Gral. Manuel Castilla Brito Km. 17",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "ing. Ricardo Payro Jene (polo Norte)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Los \u00c1ngeles",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Ca\u00f1a Brava",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Eugenio Echeverr\u00eda Castellot (El Carrizal)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Carmen II",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Manantial",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Porvenir",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Felipe \u00c1ngeles",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Gustavo D\u00edaz Ordaz (San Antonio Soda)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Hermenegildo Galeana",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "San Jos\u00e9",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "La Lucha",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Lucha",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "La Victoria",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "La Virgencita de La Candelaria",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Ni\u00f1os H\u00e9roes",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Nuevo Campanario",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Nuevo Progreso 3",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Tomas Aznar Barbachano",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Unidad y Trabajo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "21 de Mayo (Lechugal)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Narciso Mendoza",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24646": [
+        {
+            "Colonia": "L\u00e1zaro C\u00e1rdenas 2 (ojo de Agua)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Los Alacranes",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "16 de Septiembre",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Bella Uni\u00f3n de Veracruz",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Blasillo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Carlos A Madrazo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Cerro de las Flores (Sta. Rosa)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "El Tesoro",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Josefa Ort\u00edz de Dom\u00ednguez (Icaich\u00e9)",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Los Tambores de Emiliano Zapata",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Manuel Cresencio Rej\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Nuevo San Jos\u00e9",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Nuevo Veracruz",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Pioneros del R\u00edo Xnoh\u00e1",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Quiche las Pailas",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Plan de Ayala (5 de Mayo)",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24647": [
+        {
+            "Colonia": "11 de Mayo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Arroyo Negro",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Dos Naciones",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Jos\u00e9 Ma. Morelos y Pav\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Justo Sierra M\u00e9ndez",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "San Miguel",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Santo Domingo",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Dos Lagunas",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Ley de Fomento Agropecuario (La Misteriosa)",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24648": [
+        {
+            "Colonia": "Centauro del Norte",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "La Guadalupe",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24653": [
+        {
+            "Colonia": "Nuevo Conhuas",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Balanku",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24654": [
+        {
+            "Colonia": "Felipe \u00c1ngeles II",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Ingeniero Eugenio Echeverr\u00eda Castellot",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Puebla de Morelia",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24656": [
+        {
+            "Colonia": "Central Chiclera Villahermosa",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24658": [
+        {
+            "Colonia": "Xbonil",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Constituci\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Pablo Garcia",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Santa Lucia",
+            "Municipio": "Campeche Calakmul"
+        },
+        {
+            "Colonia": "Concepci\u00f3n",
+            "Municipio": "Campeche Calakmul"
+        }
+    ],
+    "24660": [
+        {
+            "Colonia": "Vicente Guerrero",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24663": [
+        {
+            "Colonia": "Ram\u00f3n Corona",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24667": [
+        {
+            "Colonia": "X-Canh\u00e1",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Nuevo Chan Yaxch\u00e9",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24668": [
+        {
+            "Colonia": "Chun-Ek",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Pachuitz",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        },
+        {
+            "Colonia": "Chan-Chen",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24670": [
+        {
+            "Colonia": "Xmab\u00e9n",
+            "Municipio": "Campeche Hopelch\u00e9n"
+        }
+    ],
+    "24700": [
+        {
+            "Colonia": "Tenabo Centro",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24703": [
+        {
+            "Colonia": "Jacinto Canek",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24704": [
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24705": [
+        {
+            "Colonia": "Procesadora",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24706": [
+        {
+            "Colonia": "Lazareto",
+            "Municipio": "Campeche Tenabo"
+        },
+        {
+            "Colonia": "Esperanza",
+            "Municipio": "Campeche Tenabo"
+        },
+        {
+            "Colonia": "Ana Mar\u00eda Farias",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24707": [
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24720": [
+        {
+            "Colonia": "Kank\u00ed",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24723": [
+        {
+            "Colonia": "Chilib",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24730": [
+        {
+            "Colonia": "Tin\u00fan",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24732": [
+        {
+            "Colonia": "Santa Rita Corralch\u00e9",
+            "Municipio": "Campeche Tenabo"
+        },
+        {
+            "Colonia": "Emiliano Zapata",
+            "Municipio": "Campeche Tenabo"
+        },
+        {
+            "Colonia": "San Pedro Corralch\u00e9",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24733": [
+        {
+            "Colonia": "Nacheh\u00e1",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24734": [
+        {
+            "Colonia": "Xkuncheil",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24740": [
+        {
+            "Colonia": "Santa Rosa",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24746": [
+        {
+            "Colonia": "Orizaba",
+            "Municipio": "Campeche Tenabo"
+        }
+    ],
+    "24800": [
+        {
+            "Colonia": "Centro Hecelchak\u00e1n",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "La Conquista",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Antonio",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Francisco",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Abraham Azar",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Las Gardenias",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24810": [
+        {
+            "Colonia": "Centro Pomuch",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Benito Ju\u00e1rez",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Colonia Nueva",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "La Soledad",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Diego",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Jer\u00f3nimo",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Pedro",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Santa Cristina",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Villa Lucrecia",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24813": [
+        {
+            "Colonia": "Zodzil",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24820": [
+        {
+            "Colonia": "Cumpich",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24826": [
+        {
+            "Colonia": "Dzotch\u00e9n",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24828": [
+        {
+            "Colonia": "Chicmuc",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Nohalal",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24830": [
+        {
+            "Colonia": "Pocboc",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Blanca Flor Hacienda",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24831": [
+        {
+            "Colonia": "Chunkan\u00e1n",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24836": [
+        {
+            "Colonia": "Blanca Flor",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24837": [
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "San Felipe Tik\u00edn",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24839": [
+        {
+            "Colonia": "Dzitnup",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24860": [
+        {
+            "Colonia": "Campo Menonita Yaln\u00f3n",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24863": [
+        {
+            "Colonia": "Monte Bello",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        },
+        {
+            "Colonia": "Campo Menonita Chav\u00ed N\u00famero Uno",
+            "Municipio": "Campeche Hecelchak\u00e1n"
+        }
+    ],
+    "24900": [
+        {
+            "Colonia": "Calkini Centro",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24902": [
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "FOVISSSTE",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Isidro",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Juan",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24903": [
+        {
+            "Colonia": "La Concepci\u00f3n",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Miguel Kukab",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Guadalupe",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Luisito",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Mart\u00edn",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24904": [
+        {
+            "Colonia": "San Luis Obispo",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Las Flores",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Kilakan",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24905": [
+        {
+            "Colonia": "Tepakan",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24910": [
+        {
+            "Colonia": "El Gato Negro",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Rom\u00e1n",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Nunkini",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24914": [
+        {
+            "Colonia": "Tankuche",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24915": [
+        {
+            "Colonia": "Pucnachen",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Santa Mar\u00eda",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24916": [
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24917": [
+        {
+            "Colonia": "San Nicol\u00e1s",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24919": [
+        {
+            "Colonia": "Isla Arena",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24920": [
+        {
+            "Colonia": "Solidaridad",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "San Feliciano",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Dzitbalche",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24921": [
+        {
+            "Colonia": "Santa Cruz Pueblo",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24922": [
+        {
+            "Colonia": "San Antonio Sahcabchen",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24923": [
+        {
+            "Colonia": "San Agustin Chunhuas",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Xcacoch",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24925": [
+        {
+            "Colonia": "Bacabchen",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24929": [
+        {
+            "Colonia": "Concepci\u00f3n",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24930": [
+        {
+            "Colonia": "Becal",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24933": [
+        {
+            "Colonia": "Los Tres Reyes",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "F\u00e1tima",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24934": [
+        {
+            "Colonia": "Carlos Rivas",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24935": [
+        {
+            "Colonia": "Pablo Garcia",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Lim\u00f3n",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Santa Cruz",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "El Pocito",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24936": [
+        {
+            "Colonia": "San Diego",
+            "Municipio": "Campeche Calkin\u00ed"
+        },
+        {
+            "Colonia": "Estaci\u00f3n",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24940": [
+        {
+            "Colonia": "San Roque Xnol\u00e1n",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ],
+    "24942": [
+        {
+            "Colonia": "Chacnich\u00e9n (El Pozo)",
+            "Municipio": "Campeche Calkin\u00ed"
+        }
+    ]
+}
