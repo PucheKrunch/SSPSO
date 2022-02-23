@@ -27,17 +27,23 @@ def delete(file, zipcode):
     try:
         file_data = open(f"json_files/{file}", 'r+')
         file_data_json = json.load(file_data)
+        del file_data_json[zipcode]
         file_data.seek(0)
         file_data.truncate()
-        del file_data_json[zipcode]
         file_data.write(json.dumps(file_data_json, indent=4))
         file_data.close()
+        print(f"Se eliminó el còdigo postal '{zipcode}' del archivo '{file}'")
 
     except:
-        print("No se pudo eliminar, escribe el comando correctamente")
+        print("Ocurrió un error, introduce el comando de nuevo")
 
 def rename(file, name):
-    os.rename(f"json_files/{file}", f"json_files/{name}")
+    try:
+        os.rename(f"json_files/{file}", f"json_files/{name}")
+        print(f"Se cambió el nombre del archvio de '{file}' a '{name}'")
+    except:
+        print("Ocurrió un error al intentar cambiar el nombre del archivo")
+
 
 def combine(file1, file2):
     file1_data =  open(f"json_files/{file1}", 'r')
@@ -76,8 +82,13 @@ def group(files):
             break
     os.makedirs(f"json_files/Agrupación{i}")
     for file in files:
-        shutil.copyfile(f"json_files/{file}", f"json_files/Agrupación{i}/{file}")
-    return f"Agrupación{i}"
+        try:
+            shutil.copyfile(f"json_files/{file}", f"json_files/Agrupación{i}/{file}")
+        except:
+            shutil.rmtree(f"json_files/Agrupación{i}")
+            print("Ocurrió un problema al copiar algùn archivo")
+            return
+    print(f"Se agruparon los archivos en la carpeta 'Agrupación{i}'")
 
 def main():
     while(True):
@@ -88,18 +99,22 @@ def main():
 
         elif command.split()[0] == 'eliminar':
             delete(command.split()[1], command.split()[2])
-            print("Eliminado")
 
         elif command.split()[0] == 'renombrar':
-            rename(command.split()[1], command.split()[2])
-            print(f"Se cambió el nombre del archvio de '{command.split()[1]}' a '{command.split()[2]}'")
+            if len(command.split()[1::]) == 2:
+                rename(command.split()[1], command.split()[2])
+            else:
+                print("El comando 'renombrar' solo toma 2 argumentos")
 
         elif command.split()[0] == 'combinar':
             combine(command.split()[1], command.split()[2])
             print("Combinado")
 
         elif command.split()[0] == 'agrupar':
-            print(f"Archivos agrupados en la carpeta '{group(command.split()[1::])}'")
+            if len(command.split()[1::]) == 5:
+                group(command.split()[1::])
+            else:
+                print("El comando 'agrupar' requiere de 5 archivos")
 
         elif command.split()[0] == 'salir':
             break
