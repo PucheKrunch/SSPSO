@@ -15,11 +15,17 @@ def copy(file, state):
 
     except:
         file_data = open(f"json_files/{file}", 'w')
+        if not os.path.exists(f"json_files/{state}"):
+            print(f"El archivo '{state}' no existe")
+            file_data.close()
+            os.remove(f"json_files/{file}")
+            return
         state_data = open(f"json_files/{state}", 'r')
         state_data_json = json.load(state_data)
         state_name = state.split('.')[0]
         file_data.write(json.dumps({state_name:state_data_json}, indent=4))
 
+    print(f"Se copió el archivo '{state}' en el archivo '{file}'")
     file_data.close()
     state_data.close()
 
@@ -27,12 +33,14 @@ def delete(file, zipcode):
     try:
         file_data = open(f"json_files/{file}", 'r+')
         file_data_json = json.load(file_data)
+        file_data.close()
         del file_data_json[zipcode]
+        file_data = open(f"json_files/{file}", 'r+')
         file_data.seek(0)
         file_data.truncate()
         file_data.write(json.dumps(file_data_json, indent=4))
         file_data.close()
-        print(f"Se eliminó el còdigo postal '{zipcode}' del archivo '{file}'")
+        print(f"Se eliminó el código postal '{zipcode}' del archivo '{file}'")
 
     except:
         print("Ocurrió un error, introduce el comando de nuevo")
@@ -46,12 +54,16 @@ def rename(file, name):
 
 
 def combine(file1, file2):
-    file1_data =  open(f"json_files/{file1}", 'r')
-    file1_data_json = json.load(file1_data)
-    file1_data.close()
-    file2_data =  open(f"json_files/{file2}", 'r')
-    file2_data_json = json.load(file2_data)
-    file2_data.close()
+    try:
+        file1_data =  open(f"json_files/{file1}", 'r')
+        file1_data_json = json.load(file1_data)
+        file1_data.close()
+        file2_data =  open(f"json_files/{file2}", 'r')
+        file2_data_json = json.load(file2_data)
+        file2_data.close()
+    except:
+        print("Ocurrió un error al intentar abrir los archivos")
+        return
     merged_data = OrderedDict()
     file1_keys = list(file1_data_json.keys())
     file2_keys = list(file2_data_json.keys())
@@ -86,7 +98,7 @@ def group(files):
             shutil.copyfile(f"json_files/{file}", f"json_files/Agrupación{i}/{file}")
         except:
             shutil.rmtree(f"json_files/Agrupación{i}")
-            print("Ocurrió un problema al copiar algùn archivo")
+            print("Ocurrió un problema al copiar algún archivo")
             return
     print(f"Se agruparon los archivos en la carpeta 'Agrupación{i}'")
 
@@ -94,11 +106,16 @@ def main():
     while(True):
         command = input(">>> ")
         if command.split()[0] == 'copiar':
-            copy(command.split()[1], command.split()[2])
-            print("Copiado")
+            if len(command.split()[1::]) == 2:
+                copy(command.split()[1], command.split()[2])
+            else:
+                print("El comando 'copiar' solo toma 2 argumentos")
 
         elif command.split()[0] == 'eliminar':
-            delete(command.split()[1], command.split()[2])
+            if len(command.split()[1::]) == 2:
+                delete(command.split()[1], command.split()[2])
+            else:
+                print("El comando 'eliminar' solo toma 2 argumentos")
 
         elif command.split()[0] == 'renombrar':
             if len(command.split()[1::]) == 2:
@@ -107,8 +124,10 @@ def main():
                 print("El comando 'renombrar' solo toma 2 argumentos")
 
         elif command.split()[0] == 'combinar':
-            combine(command.split()[1], command.split()[2])
-            print("Combinado")
+            if len(command.split()[1::]) == 2:
+                combine(command.split()[1], command.split()[2])
+            else:
+                print("El comando 'combinar' solo toma 2 argumentos")
 
         elif command.split()[0] == 'agrupar':
             if len(command.split()[1::]) == 5:
