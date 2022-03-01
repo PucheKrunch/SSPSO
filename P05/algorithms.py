@@ -1,7 +1,7 @@
 from cells_and_files import *
 
 def best_fit(memory, files):
-    diff = 0
+    diff = 3000
 
 def next_fit(memory, files):
     pass
