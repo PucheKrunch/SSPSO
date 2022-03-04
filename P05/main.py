@@ -3,11 +3,11 @@ from cells_and_files import *
 
 def main():
     while True:
-        print("Selecciona un algoritmo")
-        print("1. Mejor ajuste")
-        print("2. Primer ajuste")
-        print("3. Peor ajuste")
-        print("4. Salir")
+        print("Select an algorithm:")
+        print("1. Best fit")
+        print("2. First fit")
+        print("3. Worst fit")
+        print("4. Exit")
         opc = input(">>>")
         memory = [ Cell(n+1) for n in range(12) ]
         files = [ File(n+1) for n in range(32) ]
