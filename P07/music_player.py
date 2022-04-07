@@ -101,6 +101,7 @@ def play_song(is_paused):
         pygame.mixer.music.unpause()
         paused = False
         stopped = False
+        pause_button['state'] = 'normal'
     else:
         song = song_box.curselection()
         song = song_box.get(song)
@@ -166,15 +167,11 @@ def pause_song(is_paused):
     global stopped
     global paused
     paused = is_paused
-    if paused:
-        pygame.mixer.music.unpause()
-        paused = False
-        play_button['state'] = 'disabled'
-    else:
-        stopped = True
-        pygame.mixer.music.pause()
-        paused = True
-        play_button['state'] = 'normal'
+    stopped = True
+    pygame.mixer.music.pause()
+    paused = True
+    play_button['state'] = 'normal'
+    pause_button['state'] = 'disabled'
 
 #Playlist box
 song_box = Listbox(root, bg="black", fg="white", width=70, selectbackground="grey", selectforeground="white")
