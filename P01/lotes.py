@@ -4,8 +4,6 @@ input_file = csv.DictReader(open("data.csv", encoding='utf-8'))
 
 vowels_list = ['a', 'e', 'i', 'o', 'u']
 
-data = []
-
 vowels = open("vowels.txt", "w", encoding='utf-8')
 consonants = open("consonants.txt", "w", encoding='utf-8')
 numbers = open("numbers.txt", "w", encoding='utf-8')
