@@ -10,6 +10,8 @@ global playlist
 playlist = []
 global paused
 paused = False
+global stopped
+stopped = False
 
 root = Tk()
 root.title("Music Player")
@@ -31,6 +33,8 @@ def slide(x):
 
 #Song playing time
 def play_time():
+    if stopped:
+        return
     current_time = pygame.mixer.music.get_pos() / 1000
 
     format_time = time.strftime("%M:%S", time.gmtime(current_time))
@@ -45,6 +49,8 @@ def play_time():
 
     if int(slider.get()) == int(total_time):
         next_song()
+    elif paused:
+        pass
     elif int(slider.get()) == int(current_time):
         slider.configure(to=total_time, value=int(current_time))
     else:
@@ -87,18 +93,21 @@ def delete_all_songs():
 
 #Play selected song
 def play_song(is_paused):
+    global stopped
     global paused
+    stopped = False
     paused = is_paused
     if paused:
         pygame.mixer.music.unpause()
         paused = False
+        stopped = False
     else:
         song = song_box.curselection()
         song = song_box.get(song)
         pygame.mixer.music.load(f"music/{song}.mp3")
         pygame.mixer.music.play(loops=0)
+    play_button['state'] = 'disabled'
     play_time()
-    """ slider.configure(to=total_time, value=0) """
 
 #Play the previous song
 def prev_song():
@@ -138,26 +147,34 @@ def shuffle_playlist():
     song = song_box.get(ACTIVE)
     pygame.mixer.music.load(f"music/{song}.mp3")
     pygame.mixer.music.play(loops=0)
-    slider.configure(to=total_time, value=0)
+    slider.configure(to=MP3(f"music/{song}.mp3").info.length, value=0)
+    play_button['state'] = 'disabled'
     play_time()
 
 #Stop playing song
 def stop_song():
+    global stopped
+    stopped = True
     pygame.mixer.music.stop()
     song_box.selection_clear(ACTIVE)
     status_bar.configure(text="")
     slider.configure(value=0)
+    play_button['state'] = 'normal'
 
 #Pause playing song
 def pause_song(is_paused):
+    global stopped
     global paused
     paused = is_paused
     if paused:
         pygame.mixer.music.unpause()
         paused = False
+        play_button['state'] = 'disabled'
     else:
+        stopped = True
         pygame.mixer.music.pause()
         paused = True
+        play_button['state'] = 'normal'
 
 #Playlist box
 song_box = Listbox(root, bg="black", fg="white", width=70, selectbackground="grey", selectforeground="white")
