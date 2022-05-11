@@ -37,19 +37,26 @@ def output_time_sub():
 
 class Exit_thread(Thread):
     def run(self):
-        while int(counter.cget("text")) >= 0:
-            print("Carro sale")
-            counter.config(text=str(int(counter.cget("text")) - 1))
-            print(float(label_output.cget("text")))
-            time.sleep(float(label_output.cget("text")))
+        while True:
+            if int(counter.cget("text")) > 0:
+                print("Carro sale")
+                counter.config(text=str(int(counter.cget("text")) - 1))
+                print(float(label_output.cget("text")))
+                time.sleep(float(label_output.cget("text")))
+            else:
+                time.sleep(float(label_output.cget("text")))
 
 class Entry_thread(Thread):
     def run(self):
-        while int(counter.cget("text")) <= 12:
-            print("Carro entra")
-            counter.config(text=str(int(counter.cget("text")) + 1))
-            print(float(label_input.cget("text")))
-            time.sleep(float(label_input.cget("text")))
+        while True:
+            if int(counter.cget("text")) < 12:
+                print("Carro entra")
+                counter.config(text=str(int(counter.cget("text")) + 1))
+                print(float(label_input.cget("text")))
+                time.sleep(float(label_input.cget("text")))
+            else:
+                print("Carro no lugar")
+                time.sleep(float(label_input.cget("text")))
 
 def main():
     entry = Entry_thread()
