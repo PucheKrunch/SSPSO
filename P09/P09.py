@@ -44,25 +44,22 @@ class Entry_thread(Thread):
     def run(self):
         while True:
             if int(counter.cget("text")) < 12:
-                print("Carro entra")
+                print("Car enters parking lot")
                 counter.config(text=str(int(counter.cget("text")) + 1))
-                print(float(label_input.cget("text")))
-                time.sleep(float(label_input.cget("text")))
             else:
-                print("Carro no lugar")
-                time.sleep(float(label_input.cget("text")))
+                print("Parking lot full")
+            time.sleep(float(label_input.cget("text")))
 
 #Car exit Thread
 class Exit_thread(Thread):
     def run(self):
         while True:
             if int(counter.cget("text")) > 0:
-                print("Carro sale")
+                print("Car leaves parking lot")
                 counter.config(text=str(int(counter.cget("text")) - 1))
-                print(float(label_output.cget("text")))
-                time.sleep(float(label_output.cget("text")))
             else:
-                time.sleep(float(label_output.cget("text")))
+                print("Parking lot empty")
+            time.sleep(float(label_output.cget("text")))
 
 #Main function
 def main():
@@ -82,7 +79,7 @@ root.title("Parking lot")
 root.geometry("300x400")
 root.resizable(False, False)
 
-#Ifo labels
+#Info labels
 Label(root, text="Input speed:", font=("Arial", 20)).pack()
 div1 = Frame(root, pady=15)
 div1.pack()
